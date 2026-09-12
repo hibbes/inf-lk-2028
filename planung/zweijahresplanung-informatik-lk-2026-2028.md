@@ -242,6 +242,14 @@ und Methoden, Interfaces; generische Typen, `ArrayList`, foreach, ein Lambda; UM
 mit Assoziation und Vererbung, auch rekursiv (Composite: Dateisystem aus `Practices2425`); Beziehung
 UML zu Code in beide Richtungen.
 
+**Projektvariante Flugsimulator (seit 12.09.2026):** Statt des Spiels kann ein Team von ein bis
+zwei Personen auf demselben Framework einen Flugsimulator für den ApexExplorer bauen. Dieselben
+Termine wie das Spielprojekt (Entwurf 05.11., Zwischenstand 12.11., Abgabe und Präsentation
+01./03.12.), dieselben Pflichtkonzepte: abstrakte Klasse Kraft mit polymorpher Summe, Rakete als
+Kompositum aus Bauteilen, Messpunkte als `ArrayList` mit CSV-Export (der Übungsdatensatz für E5),
+UML vor dem Code. Ergebnis ist eine vorhergesagte Gipfelhöhe für den Start im Frühjahr, geprüft
+gegen Höhen- und Schubsensor an Bord. Projektauftrag: `E02-oop-spielprojekt/material/projekt-flugsimulator.md`.
+
 **Klausur 1 (Di 17.11.2026, KW47):** E1 komplett und Objektorientierung bis Vererbung; Pflichtteil-A-
 Stil (Codeanalyse, Methode implementieren, Begriffe) plus eine kleine B1-Aufgabe.
 
@@ -512,7 +520,7 @@ eigene Einheit, er hängt an dreien:
 
 | Einheit | Was die Rakete dort ist | Umfang |
 |---|---|---|
-| E2 Objektorientierung (Okt. bis Dez. 2026) | Ein Flug als Objektmodell: Klassen Rakete, Triebwerk, Atmosphäre, Messpunkt; die Schubkurve des Treibsatzes als Array (thrustcurve.org), ein Zeitschritt als Methode, die Flugbahn als `ArrayList` von Messpunkten. Alternative zum Spielprojekt für Paare, die lieber rechnen als zeichnen | 2 bis 4 Stunden, Lektion 6 der XP-Edu-Unit |
+| E2 Objektorientierung (Okt. bis Dez. 2026) | Ein Flug als Objektmodell: Klassen Rakete, Triebwerk, Atmosphäre, Messpunkt; die Schubkurve des Treibsatzes als Array (thrustcurve.org), ein Zeitschritt als Methode, die Flugbahn als `ArrayList` von Messpunkten. Projektvariante statt Spiel für ein Team von ein bis zwei Personen (Projektauftrag in `E02-oop-spielprojekt/material/`), für die anderen eine Aufgabe in Lektion 6 der XP-Edu-Unit | das Projekt der Einheit, keine Zusatzzeit |
 | E5 Datenstrukturen und Sortieren (Feb. bis Apr. 2027) | Echte Flugdaten als durchgehender Datensatz: Gipfelhöhe als Maximumsuche, Zeitstempel binär suchen, nach Höhe sortieren, gleitender Mittelwert als Array-Aufgabe, Laufzeit an 10.000 Messpunkten messen. Daten vom ApexExplorer-Start, ersatzweise vom Barometer-Logger der Wasserraketen der NwT 10c | die Übungsdaten der Einheit, keine Zusatzzeit |
 | E8 Projekt und Versionsverwaltung (Juli 2027) | Projektthema „Bodenstation und Flugauswertung“: ein Java-Programm liest den Datenexport, berechnet Kennzahlen (Gipfelhöhe, Maximalgeschwindigkeit, Brenndauer), zeichnet die Kurve und vergleicht mit der Simulation aus E2; git, JUnit, Abnahme am 27.07. Ist die WLAN-Schnittstelle des ApexExplorer offen, wird daraus ein Live-Client, und in J2 E10 Rechner und Netze liegt ein echtes Protokoll zum Mitlesen auf dem Tisch | die 12 Stunden der Einheit |
 
