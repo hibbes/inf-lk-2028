@@ -6,10 +6,10 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 
 | Datum | Tag | Stunde | Thema (geplant) | Was wir gemacht haben | Hausaufgabe |
 |---|---|---|---|---|---|
-| 15.09.2026 | Di | 1./2. Stunde | Kursstart: Abiturformat, drei Plattformen, Vorwissens-Steckbrief, Anmeldung in der Schmiede, Diagnose (Lektion 1), Operator „beschreiben“ |  | Schmiede Lektion 2 (mindestens 4 von 6), Messenger-Raum beitreten |
-| 16.09.2026 | Mi | 1./2. Stunde | Methodensignatur, Parameter und Rückgabe, Gültigkeitsbereich; Testfälle vor dem Code am Schaltjahr; Partnerarbeit Lektion 2 und 3 |  | Schmiede Lektion 3 (mindestens summe, maximum, mittelwert) |
-| 17.09.2026 | Do | 8./9. Stunde | Standardalgorithmen auf Arrays (Maximum, Zweitgrößtes, Mittelwert, Zählen), erstes Programm mit main in BlueJ: „Zahlenanalyse“ (Material Woche 1) |  | Lektion 3 komplett, Lektion 4 umdrehen und istPalindrom; Zahlenanalyse ins Forum; freiwillig Codeanalyse geheim |
-| 22.09.2026 | Di | 1./2. Stunde | Datentypen, Wertebereiche, Casts, Strings |  |  |
+| 15.09.2026 | Di | 1./2. Stunde | KI und wir: Positionslinie, Live-Demo mit Prüfung einer KI-Lösung, drei Tische (Lernen, Fach, Gesellschaft), Entwurf der KI-Vereinbarung; Kursrahmen und Plattformen (`material/ki-und-wir.md`) |  | Steckbrief, ein Satz zur Vereinbarung, Messenger-Raum beitreten |
+| 16.09.2026 | Mi | 1./2. Stunde | KI-Vereinbarung beschlossen; Anmeldung in der Schmiede; Diagnose (Lektion 1); Operator „beschreiben“; Partnerarbeit Lektion 2 |  | Schmiede Lektion 2 fertig |
+| 17.09.2026 | Do | 8./9. Stunde | Methodensignatur, Parameter und Rückgabe; Testfälle vor dem Code am Schaltjahr; Array-Algorithmen und ihre Fallen; erstes Programm mit main in BlueJ: „Zahlenanalyse“ (Material Woche 1) |  | Lektion 3 (summe, maximum, mittelwert), Zahlenanalyse ins Forum, Kopfrechnen Teil C vorbereiten |
+| 22.09.2026 | Di | 1./2. Stunde | Kopfrechnen mit Arrays, zweitgrößtes Element von Hand; Datentypen, Wertebereiche, Casts |  |  |
 | 24.09.2026 | Do | 8./9. Stunde |  |  |  |
 | 29.09.2026 | Di | 1./2. Stunde | Arrays und Array-Algorithmen, erste Codeanalysen |  |  |
 | 30.09.2026 | Mi | 1./2. Stunde |  |  |  |

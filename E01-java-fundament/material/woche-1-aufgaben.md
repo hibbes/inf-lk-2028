@@ -1,4 +1,4 @@
-# Woche 1 (15. bis 17.09.2026): Kursstart, Methoden, Arrays
+# Woche 1 (15. bis 17.09.2026): KI-Gespräch, Kursstart, Methoden, Arrays
 
 ## A. Das Wichtigste zum Kurs
 
@@ -7,16 +7,17 @@
 - Schriftliches Abitur Informatik: Dienstag, 02.05.2028, 270 Minuten, Pflichtteil plus drei von vier Wahlaufgaben.
 - Drei Orte: dieses Repo (was wir gemacht haben, Aufgaben, Links), die Schmiede unter learn.schiller-offenburg.de (Üben mit Punkten, Anmeldung mit dem iServ-Konto), die iServ-Gruppe J1_LF_Inf1 (Forum, Dateien, Messenger).
 - Arbeitsweise: Testfälle zuerst, dann Code. Was die Schmiede prüft, prüft ihr im Kopf vorher selbst.
+- Zu KI im Kurs: siehe `ki-und-wir.md` (Thesen, Tischfragen, unsere Vereinbarung).
 
 ## B. Hausaufgaben der Woche
 
 | bis | Aufgabe |
 |---|---|
-| Mi 16.09. | Schmiede, Lektion 2 „Methoden und Bedingungen“: mindestens vier der sechs Aufgaben. Messenger-Raum „Informatik LK J1 (Abi 2028)“ beitreten (dazu den Messenger einmal öffnen). |
-| Do 17.09. | Schmiede, Lektion 3 „Schleifen und Arrays“: mindestens `summe`, `maximum`, `mittelwert`. |
-| Di 22.09. | Lektion 3 komplett, Lektion 4 „Strings“ mindestens `umdrehen` und `istPalindrom`. Programm „Zahlenanalyse“ (Teil D) als Datei ins Forum der Gruppe. Freiwillig: die Codeanalyse `geheim` in Lektion 6. |
+| Mi 16.09. | Steckbrief ausgefüllt mitbringen. Einen Satz überlegen, den ihr an der KI-Vereinbarung ändern oder ergänzen wollt. Messenger-Raum „Informatik LK J1 (Abi 2028)“ beitreten (dazu den Messenger einmal öffnen). |
+| Do 17.09. | Schmiede, Lektion 2 „Methoden und Bedingungen“ fertig (`istSchaltjahr` und `notenpunkte` dürfen offen bleiben, die machen wir gemeinsam). |
+| Di 22.09. | Schmiede, Lektion 3 „Schleifen und Arrays“: mindestens `summe`, `maximum`, `mittelwert`. Programm „Zahlenanalyse“ (Teil D) als Datei ins Forum der Gruppe. Teil C (Kopfrechnen) auf Papier vorbereiten. Freiwillig: Lektion 4 „Strings“ anfangen. |
 
-## C. Kopfrechnen mit Arrays (Donnerstag, ohne Rechner)
+## C. Kopfrechnen mit Arrays (Vorbereitung auf Dienstag, 22.09., ohne Rechner)
 
 Gegeben ist `int[] a = {4, 9, 1, 7};`
 
