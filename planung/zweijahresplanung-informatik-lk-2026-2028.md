@@ -501,6 +501,26 @@ bekommen, wird diese Zeit für die Vorbereitung genutzt.
 
 ---
 
+## Der Raketen-Strang (ergänzt 12.09.2026)
+
+Im Leistungskurs soll auf jeden Fall etwas zur Rakete stattfinden. Anlass ist das Raketenprogramm
+der Schule: Der ApexExplorer (Raketenwerkstatt Freiburg, Bordsensorik für Höhe, Beschleunigung und
+Schub, Daten per WLAN) ist bewilligt und bestellt und geht in den Physik-Leistungskurs, der Start
+ist für das Frühjahr 2027 geplant. Die Schnittmenge der beiden Kurse ist klein, der Informatik-Teil
+muss also für sich stehen und nur die Daten mit dem Physik-LK teilen. Der Strang kostet keine
+eigene Einheit, er hängt an dreien:
+
+| Einheit | Was die Rakete dort ist | Umfang |
+|---|---|---|
+| E2 Objektorientierung (Okt. bis Dez. 2026) | Ein Flug als Objektmodell: Klassen Rakete, Triebwerk, Atmosphäre, Messpunkt; die Schubkurve des Treibsatzes als Array (thrustcurve.org), ein Zeitschritt als Methode, die Flugbahn als `ArrayList` von Messpunkten. Alternative zum Spielprojekt für Paare, die lieber rechnen als zeichnen | 2 bis 4 Stunden, Lektion 6 der XP-Edu-Unit |
+| E5 Datenstrukturen und Sortieren (Feb. bis Apr. 2027) | Echte Flugdaten als durchgehender Datensatz: Gipfelhöhe als Maximumsuche, Zeitstempel binär suchen, nach Höhe sortieren, gleitender Mittelwert als Array-Aufgabe, Laufzeit an 10.000 Messpunkten messen. Daten vom ApexExplorer-Start, ersatzweise vom Barometer-Logger der Wasserraketen der NwT 10c | die Übungsdaten der Einheit, keine Zusatzzeit |
+| E8 Projekt und Versionsverwaltung (Juli 2027) | Projektthema „Bodenstation und Flugauswertung“: ein Java-Programm liest den Datenexport, berechnet Kennzahlen (Gipfelhöhe, Maximalgeschwindigkeit, Brenndauer), zeichnet die Kurve und vergleicht mit der Simulation aus E2; git, JUnit, Abnahme am 27.07. Ist die WLAN-Schnittstelle des ApexExplorer offen, wird daraus ein Live-Client, und in J2 E10 Rechner und Netze liegt ein echtes Protokoll zum Mitlesen auf dem Tisch | die 12 Stunden der Einheit |
+
+Zu klären: die Schnittstelle des ApexExplorer (Export als CSV oder JSON, offenes Protokoll oder
+geschlossene App), der Starttermin, und wer aus dem Kurs am Starttag die Bodenstation übernimmt.
+Bis der Start stattgefunden hat, laufen alle Aufgaben mit einer simulierten Flugkurve, damit die
+Einheit nicht am Wetter hängt.
+
 ## Wochenplan J1 (2026/27, gerechnet)
 
 | KW | Montag | Std | Einheit | Inhalt |
