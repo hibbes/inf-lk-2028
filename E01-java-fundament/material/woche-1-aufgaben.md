@@ -43,7 +43,9 @@ for (int i = 0; i < a.length; i++) {
 }
 ```
 
-## D. Programm „Zahlenanalyse“ (Donnerstag, am Schulrechner)
+## D. Programm „Zahlenanalyse“ (Donnerstag, in BlueJ)
+
+BlueJ ist bis Ende der zweiten Einheit unser Werkzeug: neues Projekt anlegen, Klasse anlegen, Code schreiben, Rechtsklick auf die Klasse und `main` ausführen. Das Code Pad unten rechts rechnet Ausdrücke wie `7 / 2` sofort aus.
 
 In der Schmiede bekamen eure Methoden die Zahlen als Text („3,1,4“) und haben sich das Array selbst gebaut. In einem echten Programm bekommt die Methode das Array direkt. Die Logik bleibt dieselbe.
 

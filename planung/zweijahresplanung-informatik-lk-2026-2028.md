@@ -331,7 +331,8 @@ Analyse per Quiz, Zahl: Anzahl Vergleiche); (5) elementare Sortierverfahren (Sor
 nach Durchlauf n, Zahl: Vertauschungen); (6) Mergesort und Quicksort (Sortierung der Rekursions-
 schritte, Quiz zu Pivot); (7) Laufzeiten (Zuordnung O-Klassen, Wahr/Falsch zu Stabilität). Der
 Unterricht trägt die Implementierung von Liste und Baum in Java und die Laufzeitmessung am
-eigenen Code.
+eigenen Code. In der ersten Stunde der Einheit wechselt der Kurs von BlueJ zu VS Code,
+eine halbe Stunde Einrichtung ist eingeplant.
 
 ### E6 Graphen (KW16 bis KW19, 20.04. bis 13.05.2027, 18 Stunden)
 
@@ -661,9 +662,11 @@ den Lehrstoff im WebUntis-Klassenbuch.
    Klausur 7 als 270-Minuten-Simulation mit der Schulleitung klären.
 4. **J2-Annahmen prüfen**, sobald Stundenplan und Kalender 2027/28 stehen: Stundenraster, Fastnacht,
    Studienfahrt, Notenschluss J2.1 und J2.2.
-5. **Werkzeuge festlegen:** JDK-Version und IDE (BlueJ für den Einstieg, danach IntelliJ oder
-   VS Code), SQLite mit DB Browser, Logisim Evolution, JUnit. Der Code-Runner der Schmiede läuft
-   mit Java 15, Sprachfeatures darüber hinaus gehören nicht in die Drills.
+5. **Werkzeuge (entschieden 12.09.2026):** BlueJ in E1 und E2 (Objektbank, Klassendiagramm, Code Pad,
+   Debugger ohne Einrichtung), Wechsel zu VS Code mit Java-Erweiterungen in der ersten Stunde von E5,
+   spätestens in E8 (git, JUnit, Terminal). Beides läuft auf den Rechnern in 0.209. Dazu SQLite mit
+   DB Browser (E7), Logisim Evolution (E10). Der Code-Runner der Schmiede läuft mit Java 15,
+   Sprachfeatures darüber hinaus gehören nicht in die Drills.
 6. **GFS-Fachwahl** der Schüler bis Ende Oktober einsammeln und die GFS-Termine in den Plan legen.
 7. **Hilfsmittel einführen:** IQB-Formelsammlung und Taschenrechner spätestens in E5 (Laufzeiten,
    Logarithmen), damit sie im Abitur vertraut sind.
