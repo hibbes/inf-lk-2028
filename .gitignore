@@ -1,0 +1,7 @@
+# Nie ins Repo: Schülerdaten, Noten, Prüfungs-PDFs des Kultusministeriums, Buch-Scans
+*.xlsx
+*.csv
+*kurs*roh*.json
+material/pruefungen/
+**/noten*
+.DS_Store
