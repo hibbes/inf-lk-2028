@@ -171,7 +171,7 @@ Fastnachtstage. Eine J2-Studienfahrt ist in der Rechnung nicht enthalten.
 | **E9 Automaten und formale Sprachen** | KW37-43, 14.09. bis 26.10.2027 | 32 | Grammatiken, EBNF, DEA, Mealy, reguläre Ausdrücke, Kellerautomat, Chomsky | K5 Di 26.10. | `lk-automaten-sprachen` |
 | **E10 Rechner** | KW43-47, 27.10. bis 25.11.2027 | 20 | Boolesche Algebra, Schaltnetze, KV, Addierer, Latch; Von-Neumann als Überblick | | `lk-rechner-schaltnetze` |
 | **E11 Kryptologie und Datensicherheit** | KW48-02, 30.11.2027 bis 13.01.2028 | 22 | Vigenère bis RSA, Signatur, Hash, PKI, Angriffe, Datenschutz | K6 Di 11.01. | `lk-kryptologie` |
-| **E12 Abiturtraining** | KW03-15, 18.01. bis 12.04.2028 | 60 | Pflichtteil A, dann B1 bis B4 mit alten Prüfungen, Simulation, Ferienlernplan | K7 Di 14.03. | `lk-abitur-training` |
+| **E12 Abiturtraining** | KW03-15, 18.01. bis 12.04.2028 | 60 | Pflichtteil A, dann B1 bis B4 mit alten Aufgaben, Simulation, Ferienlernplan | K7 Di 14.03. | `lk-abitur-training` |
 | **E13 Nach dem Abitur** | 15.05. bis Ende Juni 2028 | ~18 | Informatik, die nie Platz hatte; Mandelbrot-Abschied; Ausblick | | |
 | | **J1: 182, J2: ~152** | | | | |
 
@@ -381,7 +381,8 @@ gegen eine echte Datenbank bleiben im Unterricht, weil die App keine SQL-Ausfüh
 **Leitidee:** Die letzten drei Wochen vor den Sommerferien sind bei allen Kursen unruhig; deshalb
 liegt hier die Einheit, die vom Tun lebt. Projektbegriffe und Vorgehensmodelle (Wasserfall,
 iterativ, agil mit User Stories und Sprint), Versionsverwaltung mit git (init, add, commit, branch,
-merge, Konflikt) und GitHub (das Kurs-Repo wird ab jetzt von den Schülern mitgepflegt),
+merge, Konflikt) und GitHub (ein privates Projekt-Repo, in das die Schüler mit selbst gewählten
+Konten eingeladen werden; das öffentliche Kurs-Repo bleibt frei von Schülerbeiträgen),
 testgetriebene Entwicklung mit JUnit an einer Klasse aus E5, dann ein Prototyp in Zweiergruppen,
 der Datenbank (E7) und Objektorientierung (E2) verbindet, mit Abnahme am 27.07. Damit ist 3.3.6
 erledigt, bevor J2 beginnt, und der Kurs kann im Herbst mit einem Projektabschluss als GFS-Angebot
@@ -407,7 +408,7 @@ Chomsky-Hierarchie; Einsatzbereiche (Substringsuche, GUI-Zustände, Protokolle, 
 **Klausur 5 (Di 26.10.2027, KW43):** E9 komplett, nach dem Vorbild von B3.
 
 **Hausübliches Material:** Forum 79 (Skript Gierhardt „Formale Sprachen und Automatentheorie“,
-51 Seiten, inf-schule.de zu Kellerautomaten), Abituraufgaben 2019 B3, 2023 bis 2026 B3.
+51 Seiten, inf-schule.de zu Kellerautomaten), alte Aufgaben zu B3.
 
 **XP-Edu `lk-automaten-sprachen`, 6 Lektionen:** (1) Sprachen, Alphabete, Wörter (Wahr/Falsch:
 gehört das Wort zur Sprache); (2) Grammatiken und Ableitungen (Sortierung der Ableitungsschritte,
@@ -469,8 +470,8 @@ Zeugnis: Pflichtteil A, also das Format (120 BE, 270 Minuten, Wahl 3 aus 4), die
 ihren Anforderungsbereichen, die Aufgabentypen des Fundus (Standardalgorithmen erläutern,
 Array- und String-Methoden, Laufzeit analysieren, Kardinalitäten, Rekursion nachvollziehen,
 SQL, Begriffe, Schaltungen, Wortproblem, Codierung) und die Hilfsmittel (Formelsammlung des IQB,
-Taschenrechner). Februar bis April: die vier Wahlfelder mit den Abiturprüfungen 2023 bis 2027
-(neues Format) und den älteren als Steinbruch, jeweils erst unter Zeitdruck lösen, dann am
+Taschenrechner). Februar bis April: die vier Wahlfelder mit alten Aufgaben im neuen Format (ab 2023)
+und den älteren als Steinbruch, jeweils erst unter Zeitdruck lösen, dann am
 Erwartungshorizont korrigieren, dann die eigene Wahlstrategie (welche drei B-Felder) begründen.
 
 **Klausur 7 (Di 14.03.2028, KW11):** Abitursimulation. Wenn die Schulleitung eine Verlängerung
@@ -479,7 +480,7 @@ Erwartungshorizont korrigieren, dann die eigene Wahlstrategie (welche drei B-Fel
 B-Aufgaben als Hausübung mit Selbstkorrektur.
 
 **Ferienlernplan 2028:** Übergabe am Mi 12.04. Vorlage ist der Lernplan `InfAbi26`
-(drei Wochen, ein Thema pro Tag, Links auf Forum, Videos und alte Prüfungen). Zeitraum 13.04. bis
+(drei Wochen, ein Thema pro Tag, Links auf Forum, Videos und alte Aufgaben). Zeitraum 13.04. bis
 01.05.2028, Klausur Di 02.05. Statt der Forumslinks zeigt der neue Plan auf das GitHub-Repo und
 die XP-Edu-Trainingsarena.
 
@@ -615,10 +616,10 @@ Je Halbjahr höchstens zwei GFS im Kurs, damit sie nicht in die Klausurwochen fa
 ## Die drei Plattformen
 
 **iServ-Forum (Materialsammlung und Abiturprüfungen).** Bleibt der Ort für alles, was nicht
-öffentlich sein darf: die Prüfungs-PDFs, Skripte Dritter, Erwartungshorizonte. Die Gruppe `J1_LF_Inf1` mit
+öffentlich sein darf: alte Aufgaben mit Lösungen, Skripte Dritter. Die Gruppe `J1_LF_Inf1` mit
 eigenem Forum existiert seit dem 12.09.2026, Forum 22 bleibt als Archiv stehen. Neue Themen: Bitebene,
-Datenstrukturen, Rekursion, Brückenkurs-Schnittmenge, „So läuft das Abitur 2028“. Dort auch der
-Abiturjahrgang 2026 (liegt bei Marek aus der Erstkorrektur) und der Fundus 3.0.
+Datenstrukturen, Rekursion, Brückenkurs-Schnittmenge, „So läuft das Abitur 2028“. Dort auch die
+Aufgaben des Jahrgangs 2026 und der Fundus 3.0.
 
 **XP-Edu-Schmiede (Üben).** Ein Kurs „Informatik LK J1“ (Fach Informatik, Schuljahr 2026/2027) mit
 den zwölf Units oben. Die Schüler kommen per iServ-Login hinein; damit sie nach dem ersten Login
@@ -640,10 +641,11 @@ inf-lk-2028/
   links.md                  geprüfte Linksammlung aus dem Forum, nach Bildungsplan sortiert
 ```
 
-Regeln: keine Schülernamen, keine Noten, keine Prüfungs-PDFs des Kultusministeriums (nur Links
+Regeln: keine Schülernamen, keine Noten, keine Prüfungsunterlagen des Kultusministeriums (nur Links
 auf die öffentlichen Dokumente wie Fundus und Facherlass), fremde Skripte nur bei passender Lizenz
-(Hintergrund.pdf ist CC BY-NC-SA, Gierhardt-Skripte nicht ohne Rückfrage). Ab E8 committen die
-Schüler ihre Prototypen in eigene Ordner. `stunden.md` je Einheit ist zugleich die Vorlage für
+(Hintergrund.pdf ist CC BY-NC-SA, Gierhardt-Skripte nicht ohne Rückfrage). Schülerbeiträge kommen nie in
+dieses öffentliche Repo, sondern ab E8 in ein privates Projekt-Repo (GitHub-Konten und Commit-Namen
+wären sonst öffentlich). `stunden.md` je Einheit ist zugleich die Vorlage für
 den Lehrstoff im WebUntis-Klassenbuch.
 
 ---

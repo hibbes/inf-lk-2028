@@ -1,6 +1,6 @@
 # Linksammlung Informatik Leistungsfach
 
-Nach den Abschnitten des Bildungsplans sortiert. Jeder Link wurde beim Eintragen automatisch geprüft; wer einen toten Link findet, meldet ihn als Issue. Material, das nicht öffentlich ist (alte Prüfungen mit Lösungen, Skripte, Buch), liegt im iServ-Forum der Kursgruppe.
+Nach den Abschnitten des Bildungsplans sortiert. Jeder Link wurde beim Eintragen automatisch geprüft; wer einen toten Link findet, meldet ihn als Issue. Material, das nicht öffentlich ist (alte Aufgaben mit Lösungen, Skripte, Buch), liegt im iServ-Forum der Kursgruppe.
 
 ## Verbindliche Dokumente
 
@@ -12,6 +12,7 @@ Nach den Abschnitten des Bildungsplans sortiert. Jeder Link wurde beim Eintragen
 - Aufgabenfundus Leistungsfach Informatik, Version 3.0 (Format, Operatoren, Beispielaufgaben): https://km.baden-wuerttemberg.de/fileadmin/redaktion/m-km/intern/PDF/Dateien/Gymnasium/Dokumente_Abitur/Abitur_2027/INF_ABI27_MusterFundus_V3.0.pdf
 - Terminplan schriftliches Abitur 2028: https://km.baden-wuerttemberg.de/fileadmin/redaktion/m-km/intern/PDF/Dateien/Gymnasium/Dokumente_Abitur/Abitur_2028/Anl_1_2028_Gesamtplan_Stand_16.03.2026.pdf
 - Leitfaden für die gymnasiale Oberstufe, Abitur 2028 (Klausuren, GFS, Gesamtqualifikation): https://km.baden-wuerttemberg.de/fileadmin/redaktion/m-km/intern/PDF/Publikationen/Gymnasium/2025-12-16-Leitfaden-ABI-2028.pdf
+- Offiziell veröffentlichte Abituraufgaben ab 2025 (IBBW, Lizenz CC BY-NC-ND, ohne Lösungen): https://ibbw-bw.de/,Lde/Startseite/Pruefungen+_+Lernstandserhebungen/Abschlusspruefungen+_allgemein+bildend_
 
 ## Übergreifend
 
@@ -127,7 +128,7 @@ Videos: Man in the Middle: https://www.youtube.com/watch?v=jXoDzN0q3og ; digital
 
 ## E12: Abiturtraining
 
-- Alle Abiturprüfungen mit Lösungen liegen im iServ-Forum der Kursgruppe (nicht öffentlich).
+- Alte Aufgaben mit Lösungen liegen im iServ-Forum der Kursgruppe (nicht öffentlich).
 - Fundus 3.0 mit Musteraufgabensatz und Erwartungshorizont: siehe oben unter „Verbindliche Dokumente“.
 - GFS-Themen (info-bw.de): https://info-bw.de/faecher:informatik:oberstufe:gfsthemen:start
 - Glossar Informatik Oberstufe (info-bw.de): https://info-bw.de/faecher:informatik:oberstufe:glossar:start

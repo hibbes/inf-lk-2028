@@ -13,7 +13,7 @@ Die Termine sind aus dem angenommenen Stundenraster 2027/28 gerechnet und werden
 | 20.01.2028 | Do | 8./9. Stunde |  |  |  |
 | 25.01.2028 | Di | 1./2. Stunde | Pflichtteil-Training (Codierung, Rekursion, SQL, Automaten) |  |  |
 | 27.01.2028 | Do | 8./9. Stunde |  |  |  |
-| 01.02.2028 | Di | 1./2. Stunde | B1: Programmiertechniken und OOP mit den Prüfungen 2023 bis 2027 |  |  |
+| 01.02.2028 | Di | 1./2. Stunde | B1: Programmiertechniken und OOP mit alten Aufgaben ab 2023 |  |  |
 | 02.02.2028 | Mi | 1./2. Stunde |  |  |  |
 | 03.02.2028 | Do | 8./9. Stunde |  |  |  |
 | 08.02.2028 | Di | 1./2. Stunde | B1: Rekursion, Sortieren, Aufwandsanalyse |  |  |

@@ -11,7 +11,7 @@ noch habt.
 |---|---|---|
 | **Dieses Repo** | Planung, Stundenprotokolle, Aufgaben, Code, geprüfte Linksammlung, später der Lernplan vor dem Abitur | öffentlich |
 | **XP-Edu-Schmiede** (learn.schiller-offenburg.de) | Üben: kleine Programmieraufgaben gegen Testfälle, Rechenroutinen, Begriffe, Trainingsarena vor dem Abitur | Anmeldung mit dem iServ-Konto, der Kurs wird automatisch zugeordnet |
-| **iServ, Gruppe J1_LF_Inf1** | Alles, was nicht öffentlich sein darf: alte Abiturprüfungen mit Lösungen, Skripte, Erwartungshorizonte; Forum, Dateien, Kalender | Schulkonto |
+| **iServ, Gruppe J1_LF_Inf1** | Alles, was nicht öffentlich sein darf: alte Aufgaben mit Lösungen, Skripte; Forum, Dateien, Kalender | Schulkonto |
 
 ## Aufbau
 
@@ -45,7 +45,7 @@ Schriftliches Abitur Informatik: Dienstag, 02.05.2028.
 
 ## Was hier nie steht
 
-Keine Namen, keine Noten, keine Prüfungsaufgaben des Kultusministeriums (nur Links auf die
+Keine Namen, keine Noten, keine Prüfungsunterlagen des Kultusministeriums (nur Links auf die
 öffentlich verfügbaren Dokumente), keine fremden Skripte ohne passende Lizenz. Lösungen zu
 Übungsaufgaben erscheinen erst nach der Abgabefrist.
 
@@ -58,10 +58,13 @@ Keine Namen, keine Noten, keine Prüfungsaufgaben des Kultusministeriums (nur Li
 
 Alle vier sind in `links.md` verlinkt.
 
-## Mitmachen
+## Mitmachen, ohne hier zu erscheinen
 
-Ab Einheit 8 (git und GitHub) legt ihr eure Prototypen in eigenen Ordnern unter `code/` der
-jeweiligen Einheit ab. Fehler in Materialien oder tote Links bitte als Issue melden.
+Dieses Repo enthält keine Beiträge von Schülerinnen und Schülern, weil GitHub-Konten und
+Commit-Namen öffentlich sichtbar wären. Eure Prototypen aus Einheit 8 kommen in ein eigenes,
+**privates** Repo, zu dem ihr mit einem selbst gewählten GitHub-Konto eingeladen werdet (ein
+Pseudonym reicht). Tote Links oder Fehler in Materialien meldet ihr im Unterricht oder im
+iServ-Forum, nicht als GitHub-Issue.
 
 Lizenz: Die Texte und Aufgaben in diesem Repo dürfen für den eigenen Unterricht genutzt werden;
 eine förmliche Lizenz wird noch festgelegt.
