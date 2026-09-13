@@ -16,7 +16,7 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 | 04.03.2027 | Do | 8./9. Stunde |  |  |  |
 | 09.03.2027 | Di | 1./2. Stunde | Binäre Suche, Bubble-, Selection-, Insertionsort; Wiederholung |  |  |
 | 11.03.2027 | Do | 8./9. Stunde |  |  |  |
-| 16.03.2027 | Di | 1./2. Stunde | Klausur 3 |  |  |
+| 16.03.2027 | Di | 1./2. Stunde | noch offen (Klausur 3: Termin folgt) |  |  |
 | 17.03.2027 | Mi | 1./2. Stunde |  |  |  |
 | 18.03.2027 | Do | 8./9. Stunde |  |  |  |
 | 06.04.2027 | Di | 1./2. Stunde | Quicksort, ein höheres Verfahren implementieren, Rückgabe K3 |  |  |

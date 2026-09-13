@@ -17,7 +17,7 @@ Die Termine sind aus dem angenommenen Stundenraster 2027/28 gerechnet und werden
 | 16.12.2027 | Do | 8./9. Stunde |  |  |  |
 | 21.12.2027 | Di | 1./2. Stunde | PKI, Zertifikate, Vertrauensmodelle; Angriffe |  |  |
 | 22.12.2027 | Mi | 1./2. Stunde |  |  |  |
-| 11.01.2028 | Di | 1./2. Stunde | Klausur 6 |  |  |
+| 11.01.2028 | Di | 1./2. Stunde | noch offen (Klausur 6: Termin folgt) |  |  |
 | 13.01.2028 | Do | 8./9. Stunde |  |  |  |
 
 Zeilen: 11 Doppelstunden = 22 Einzelstunden.

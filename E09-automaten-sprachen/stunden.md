@@ -23,6 +23,6 @@ Die Termine sind aus dem angenommenen Stundenraster 2027/28 gerechnet und werden
 | 14.10.2027 | Do | 8./9. Stunde |  |  |  |
 | 19.10.2027 | Di | 1./2. Stunde | Grenzen regulärer Sprachen, Kellerautomat, kontextfrei, Chomsky |  |  |
 | 21.10.2027 | Do | 8./9. Stunde |  |  |  |
-| 26.10.2027 | Di | 1./2. Stunde | Klausur 5 |  |  |
+| 26.10.2027 | Di | 1./2. Stunde | noch offen (Klausur 5: Termin folgt) |  |  |
 
 Zeilen: 16 Doppelstunden = 32 Einzelstunden.

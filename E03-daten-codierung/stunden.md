@@ -12,7 +12,7 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 | 15.12.2026 | Di | 1./2. Stunde | Textcodierung, Codemerkmale, Huffman, Lauflängencodierung |  |  |
 | 17.12.2026 | Do | 8./9. Stunde |  |  |  |
 | 22.12.2026 | Di | 1./2. Stunde | LZW; Weihnachtsprogrammieren |  |  |
-| 12.01.2027 | Di | 1./2. Stunde | Klausur 2 |  |  |
+| 12.01.2027 | Di | 1./2. Stunde | noch offen (Klausur 2: Termin folgt) |  |  |
 | 14.01.2027 | Do | 8./9. Stunde |  |  |  |
 
 Zeilen: 8 Doppelstunden = 16 Einzelstunden.

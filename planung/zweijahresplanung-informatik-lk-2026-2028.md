@@ -132,7 +132,7 @@ Für die Planung heißt das: jede dieser Lücken ist eine eigene Einheit oder ei
 | 07.10.2026 | Elternabend J1 | Kursstruktur und die drei Plattformen vorstellen |
 | 26. bis 30.10.2026 | Herbstferien | KW44 fällt weg |
 | 18.11.2026 | Studieninformationstag J1 | Mi-Block entfällt, KW47 hat nur 4 Stunden |
-| 20.01.2027 | **Notenschluss J1.1** | Klausur 2 muss bis 12.01. geschrieben sein |
+| 20.01.2027 | **Notenschluss J1.1** | Klausur 2 muss vorher geschrieben sein |
 | 26.01.2027 | Halbjahreskonferenz J1 | |
 | 04. bis 09.02.2027 | Fastnachtsferien | KW05 und KW06 haben zusammen nur 6 Stunden |
 | 22.03. bis 02.04.2027 | Osterferien | Klausur 3 vorher |
@@ -142,7 +142,7 @@ Für die Planung heißt das: jede dieser Lücken ist eine eigene Einheit oder ei
 | 13.09.2027 | Erster Schultag J2 (Annahme: Mo nach Ferienende 11.09.) | |
 | 02. bis 06.11.2027 | Herbstferien | |
 | 23.12.2027 bis 08.01.2028 | Weihnachtsferien | |
-| 28.01.2028 | **Späteste Zeugnisausgabe J2.1** | Klausur 6 bis 11.01. |
+| 28.01.2028 | **Späteste Zeugnisausgabe J2.1** | Klausur 6 vorher |
 | 31.01.2028 | Beginn 4. Halbjahr, Wahl der mündlichen Prüfungsfächer | |
 | 24. bis 29.02.2028 | Fastnacht (**Annahme**, Muster wie 2027, Rosenmontag 28.02.) | |
 | 13.04.2028 | Gründonnerstag frei, danach Osterferien 18. bis 22.04. | Mi 12.04. ist die letzte Unterrichtsstunde vor dem Abitur |
@@ -161,17 +161,17 @@ Fastnachtstage. Eine J2-Studienfahrt ist in der Rechnung nicht enthalten.
 | Einheit | Zeitraum | Std | Schwerpunkt | Klausur | XP-Edu-Unit |
 |---|---|---|---|---|---|
 | **E1 Java-Fundament** | KW38-41, 15.09. bis 08.10.2026 | 20 | Methoden, Typen, Strings, Arrays, Codeanalyse, Fehlersuche | | `lk-java-fundament` |
-| **E2 Objektorientierung und Spielprojekt** | KW42-49, 13.10. bis 03.12.2026 | 34 | Klassen, Vererbung, Polymorphie, UML, Collections, Spiel nach Panitz | K1 Di 17.11. | `lk-oop-spielprojekt` |
-| **E3 Daten und Codierung** | KW50-02, 08.12.2026 bis 14.01.2027 | 16 | Zweierkomplement, Festkomma, Textcodes, Huffman, LZW, RLE, Hash | K2 Di 12.01. | `lk-daten-codierung` |
+| **E2 Objektorientierung und Spielprojekt** | KW42-49, 13.10. bis 03.12.2026 | 34 | Klassen, Vererbung, Polymorphie, UML, Collections, Spiel nach Panitz | K1 (Termin folgt) | `lk-oop-spielprojekt` |
+| **E3 Daten und Codierung** | KW50-02, 08.12.2026 bis 14.01.2027 | 16 | Zweierkomplement, Festkomma, Textcodes, Huffman, LZW, RLE, Hash | K2 (Termin folgt) | `lk-daten-codierung` |
 | **E4 Rekursion** | KW03-06, 19.01. bis 11.02.2027 | 16 | Hanoi, Aufrufbaum, Divide and Conquer, Fraktale, Backtracking | | `lk-rekursion` |
-| **E5 Datenstrukturen und Sortieren** | KW07-15, 16.02. bis 15.04.2027 | 36 | Listen, Stack, Queue, Binärbaum, Suchen, Sortieren, O-Notation | K3 Di 16.03. | `lk-datenstrukturen-sortieren` |
+| **E5 Datenstrukturen und Sortieren** | KW07-15, 16.02. bis 15.04.2027 | 36 | Listen, Stack, Queue, Binärbaum, Suchen, Sortieren, O-Notation | K3 (Termin folgt) | `lk-datenstrukturen-sortieren` |
 | **E6 Graphen** | KW16-19, 20.04. bis 13.05.2027 | 18 | Adjazenz, BFS/DFS, Dijkstra, MST, P gegen NP, Greedy | | `lk-graphen` |
-| **E7 Datenbanken** | KW22-27, 01.06. bis 08.07.2027 | 30 | ERM, 3NF, SQL, DBMS, SQL-Injection, JDBC | K4 Di 29.06. | `lk-datenbanken` |
+| **E7 Datenbanken** | KW22-27, 01.06. bis 08.07.2027 | 30 | ERM, 3NF, SQL, DBMS, SQL-Injection, JDBC | K4 (Termin folgt) | `lk-datenbanken` |
 | **E8 Projekt und Versionsverwaltung** | KW28-30, 13.07. bis 27.07.2027 | 12 | Vorgehensmodelle, git, GitHub, TDD, Prototyp | | `lk-projekt-git` |
-| **E9 Automaten und formale Sprachen** | KW37-43, 14.09. bis 26.10.2027 | 32 | Grammatiken, EBNF, DEA, Mealy, reguläre Ausdrücke, Kellerautomat, Chomsky | K5 Di 26.10. | `lk-automaten-sprachen` |
+| **E9 Automaten und formale Sprachen** | KW37-43, 14.09. bis 26.10.2027 | 32 | Grammatiken, EBNF, DEA, Mealy, reguläre Ausdrücke, Kellerautomat, Chomsky | K5 (Termin folgt) | `lk-automaten-sprachen` |
 | **E10 Rechner** | KW43-47, 27.10. bis 25.11.2027 | 20 | Boolesche Algebra, Schaltnetze, KV, Addierer, Latch; Von-Neumann als Überblick | | `lk-rechner-schaltnetze` |
-| **E11 Kryptologie und Datensicherheit** | KW48-02, 30.11.2027 bis 13.01.2028 | 22 | Vigenère bis RSA, Signatur, Hash, PKI, Angriffe, Datenschutz | K6 Di 11.01. | `lk-kryptologie` |
-| **E12 Abiturtraining** | KW03-15, 18.01. bis 12.04.2028 | 60 | Pflichtteil A, dann B1 bis B4 mit alten Aufgaben, Simulation, Ferienlernplan | K7 Di 14.03. | `lk-abitur-training` |
+| **E11 Kryptologie und Datensicherheit** | KW48-02, 30.11.2027 bis 13.01.2028 | 22 | Vigenère bis RSA, Signatur, Hash, PKI, Angriffe, Datenschutz | K6 (Termin folgt) | `lk-kryptologie` |
+| **E12 Abiturtraining** | KW03-15, 18.01. bis 12.04.2028 | 60 | Pflichtteil A, dann B1 bis B4 mit alten Aufgaben, Simulation, Ferienlernplan | K7 (Termin folgt) | `lk-abitur-training` |
 | **E13 Nach dem Abitur** | 15.05. bis Ende Juni 2028 | ~18 | Informatik, die nie Platz hatte; Mandelbrot-Abschied; Ausblick | | |
 | | **J1: 182, J2: ~152** | | | | |
 
@@ -250,7 +250,7 @@ Kompositum aus Bauteilen, Messpunkte als `ArrayList` mit CSV-Export (der Übungs
 UML vor dem Code. Ergebnis ist eine vorhergesagte Gipfelhöhe für den Start im Frühjahr, geprüft
 gegen Höhen- und Schubsensor an Bord. Projektauftrag: `E02-oop-spielprojekt/material/projekt-flugsimulator.md`.
 
-**Klausur 1 (Di 17.11.2026, KW47):** E1 komplett und Objektorientierung bis Vererbung; Pflichtteil-A-
+**Klausur 1 (Termin folgt):** E1 komplett und Objektorientierung bis Vererbung; Pflichtteil-A-
 Stil (Codeanalyse, Methode implementieren, Begriffe) plus eine kleine B1-Aufgabe.
 
 **Hausübliches Material:** `Practices2425` (Fahrzeug/Auto/Fahrrad/Zug, Kriechbar/Rennschnecken,
@@ -280,7 +280,7 @@ Hashfunktionen als Konzept (Fingerprint, Integrität, ISBN-Prüfziffer; Kryptolo
 Am Di 22.12. die hausübliche Weihnachtsstunde: ASCII-Weihnachtsbaum programmieren
 (`Xmas2018`, `Weihnachtsbaum.java`), zugleich Vorgriff auf Rekursion.
 
-**Klausur 2 (Di 12.01.2027, KW02):** E2 (UML, Vererbung, Polymorphie, Klasse implementieren) und
+**Klausur 2 (Termin folgt):** E2 (UML, Vererbung, Polymorphie, Klasse implementieren) und
 E3 ohne Hash. Rückgabe Do 14.01., Notenschluss 20.01.
 
 **XP-Edu `lk-daten-codierung`, 5 Lektionen:** (1) Zahlensysteme und Zweierkomplement (Zahl,
@@ -326,7 +326,7 @@ ein nicht-vergleichsbasiertes Verfahren; O-Notation, Speicherbedarf, Stabilität
 average case. Die Fundus-Metaregeln steuern die Tiefe: Merge- und Quicksort werden im Quelltext
 analysiert, nicht in der Klausur implementiert.
 
-**Klausur 3 (Di 16.03.2027, KW11):** E4 und E5 bis zu den elementaren Sortierverfahren.
+**Klausur 3 (Termin folgt):** E4 und E5 bis zu den elementaren Sortierverfahren.
 
 **Hausübliches Material:** `Practices2425` (List, ListenElement, QueueWithList, MergeSort,
 Sortieralgorithmen mit Bubble/Gnome/Bogo, Galtonbrett mit Knoten), `ADT`, `Listen`, Forum 43
@@ -371,7 +371,7 @@ Gruppierung, Aggregatfunktionen, Unterabfragen gegen ORDER BY mit LIMIT (B4 2026
 DELETE; SQL-Injection als Angriff und die Gegenmaßnahme (Prepared Statements); Anbindung aus Java
 per JDBC als Brücke zum Projekt in E8. Wie beim Vorgängerkurs liegt Datenbanken am Ende von J1.
 
-**Klausur 4 (Di 29.06.2027, KW26):** E5 (höhere Sortierverfahren, Laufzeit), E6 und E7 bis zu
+**Klausur 4 (Termin folgt):** E5 (höhere Sortierverfahren, Laufzeit), E6 und E7 bis zu
 den Abfragen.
 
 **Hausübliches Material:** Forum 44 (ERMTheorie.pdf von Gierhardt, Normalisierungsvideos,
@@ -414,7 +414,7 @@ Implementierung eines DEA in Java (Skript Gierhardt 3.5); reguläre Sprachen dre
 Kellerautomat und Grammatik, Klammersprachen, Grenzen (a^n b^n c^n wie in B3 2026);
 Chomsky-Hierarchie; Einsatzbereiche (Substringsuche, GUI-Zustände, Protokolle, Parser).
 
-**Klausur 5 (Di 26.10.2027, KW43):** E9 komplett, nach dem Vorbild von B3.
+**Klausur 5 (Termin folgt):** E9 komplett, nach dem Vorbild von B3.
 
 **Hausübliches Material:** Forum 79 (Skript Gierhardt „Formale Sprachen und Automatentheorie“,
 51 Seiten, inf-schule.de zu Kellerautomaten), alte Aufgaben zu B3.
@@ -461,7 +461,7 @@ Ziele, Public-Key-Infrastrukturen und Vertrauensmodelle (hierarchisch, Web of Tr
 (SQL-Injection aus E7, DDoS, Phishing, Man in the Middle), Maßnahmen zu Datensicherheit und
 Datenschutz, Szenarien mit Massendaten bewerten.
 
-**Klausur 6 (Di 11.01.2028, KW02):** E10 und E11; Rückgabe vor der Zeugnisausgabe 28.01.
+**Klausur 6 (Termin folgt):** E10 und E11; Rückgabe vor der Zeugnisausgabe 28.01.
 
 **Hausübliches Material:** Forum 78 (inf-schule.de, Videos zu Signatur, PKI, MITM), Karte 3 der
 Abschlussstunde „Greatest Hits“ (Diffie-Hellman mit Farben).
@@ -483,7 +483,7 @@ Taschenrechner). Februar bis April: die vier Wahlfelder mit alten Aufgaben im ne
 und den älteren als Steinbruch, jeweils erst unter Zeitdruck lösen, dann am
 Erwartungshorizont korrigieren, dann die eigene Wahlstrategie (welche drei B-Felder) begründen.
 
-**Klausur 7 (Di 14.03.2028, KW11):** Abitursimulation. Wenn die Schulleitung eine Verlängerung
+**Klausur 7 (Termin folgt):** Abitursimulation. Wenn die Schulleitung eine Verlängerung
 über zwei Stunden hinaus erlaubt (der Facherlass sagt „in der Regel zwei Unterrichtsstunden“),
 270 Minuten mit vollständigem Satz; sonst A plus eine B-Aufgabe in zwei Stunden und die übrigen
 B-Aufgaben als Hausübung mit Selbstkorrektur.
@@ -542,14 +542,14 @@ Einheit nicht am Wetter hängt.
 | 44 | 26.10. | 0 | | Herbstferien |
 | 45 | 02.11. | 4 | E2 | Vererbung, UML-Klassendiagramm |
 | 46 | 09.11. | 6 | E2 | Polymorphie, abstrakte Klassen, Interfaces, Casts; Wiederholung |
-| 47 | 16.11. | 4 | E2 | **K1 Di 17.11.**; Mi Studieninformationstag; Do Projektarbeit |
+| 47 | 16.11. | 4 | E2 | **K1 (Termin folgt)**; Mi Studieninformationstag; Do Projektarbeit |
 | 48 | 23.11. | 6 | E2 | Collections, foreach, Generics, Lambda; Composite (rekursive Assoziation) |
 | 49 | 30.11. | 4 | E2 | Abnahme und Präsentation Spielprojekt, Rückgabe K1 |
 | 50 | 07.12. | 6 | E3 | Zweierkomplement, Rechnen, Overflow, Festkomma, Hexadezimal |
 | 51 | 14.12. | 4 | E3 | Textcodierung, Codemerkmale, Huffman, Lauflängencodierung |
 | 52 | 21.12. | 2 | E3 | LZW; Di 22.12. Weihnachtsprogrammieren |
 | 53, 01 | | 0 | | Weihnachtsferien bis 08.01. |
-| 02 | 11.01.2027 | 4 | E3 | **K2 Di 12.01.**; Do Hashfunktionen, Rückgabe |
+| 02 | 11.01.2027 | 4 | E3 | **K2 (Termin folgt)**; Do Hashfunktionen, Rückgabe |
 | 03 | 18.01. | 6 | E4 | Rekursionsbasis und -schritt, Fakultät, Fibonacci, Aufrufbaum, call stack |
 | 04 | 25.01. | 4 | E4 | Hanoi, Divide and Conquer, Palindrom und Binärdarstellung rekursiv |
 | 05 | 01.02. | 4 | E4 | iterativ gegen rekursiv, Laufzeit; Fraktale (Koch, Sierpinski) |
@@ -558,7 +558,7 @@ Einheit nicht am Wetter hängt.
 | 08 | 22.02. | 4 | E5 | Stack und Queue als ADT, generisch; Klammerausdrücke, Rangierbahnhof |
 | 09 | 01.03. | 6 | E5 | Binärbaum implementieren, Traversierungen, BFS/DFS auf Bäumen |
 | 10 | 08.03. | 4 | E5 | Binäre Suche, Bubble-, Selection-, Insertionsort; Wiederholung |
-| 11 | 15.03. | 6 | E5 | **K3 Di 16.03.**; Mi/Do Mergesort |
+| 11 | 15.03. | 6 | E5 | **K3 (Termin folgt)**; Mi/Do Mergesort |
 | 12, 13 | | 0 | | Osterferien 22.03. bis 02.04. |
 | 14 | 05.04. | 4 | E5 | Quicksort, ein höheres Verfahren implementieren, Rückgabe K3 |
 | 15 | 12.04. | 6 | E5 | Countingsort/Radixsort, O-Notation, Stabilität, best/worst/average |
@@ -571,7 +571,7 @@ Einheit nicht am Wetter hängt.
 | 23 | 07.06. | 6 | E7 | ERM und UML, Kardinalitäten, Überführung ins Schema |
 | 24 | 14.06. | 4 | E7 | Normalformen bis 3NF, SQLite praktisch |
 | 25 | 21.06. | 6 | E7 | SQL-Abfragen: Projektion, Selektion, Verbund, Gruppierung, Aggregate |
-| 26 | 28.06. | 4 | E7 | **K4 Di 29.06.**; Do SQL-Manipulation |
+| 26 | 28.06. | 4 | E7 | **K4 (Termin folgt)**; Do SQL-Manipulation |
 | 27 | 05.07. | 6 | E7 | SQL-Injection und Prepared Statements, JDBC, Rückgabe K4 |
 | 28 | 12.07. | 4 | E8 | Projektbegriffe, Vorgehensmodelle, User Stories; git-Grundlagen |
 | 29 | 19.07. | 6 | E8 | GitHub-Workflow im Kurs-Repo, TDD mit JUnit, Prototyp |
@@ -588,7 +588,7 @@ Einheit nicht am Wetter hängt.
 | 40 | 04.10. | 4 | E9 | Endliche Automaten, Zustandsdiagramm und -tabelle, Mealy |
 | 41 | 11.10. | 6 | E9 | Reguläre Sprachen dreifach: DEA, Grammatik, regulärer Ausdruck; DEA in Java |
 | 42 | 18.10. | 4 | E9 | Grenzen regulärer Sprachen, Kellerautomat, kontextfrei, Chomsky |
-| 43 | 25.10. | 6 | E9/E10 | **K5 Di 26.10.**; Mi/Do Boolesche Algebra, Gatter, Wahrheitstafeln |
+| 43 | 25.10. | 6 | E9/E10 | **K5 (Termin folgt)**; Mi/Do Boolesche Algebra, Gatter, Wahrheitstafeln |
 | 44 | 01.11. | 0 | | Herbstferien |
 | 45 | 08.11. | 6 | E10 | Schaltnetze im Simulator, De Morgan, DNF und KNF |
 | 46 | 15.11. | 4 | E10 | KV-Diagramme, Minimalform |
@@ -598,7 +598,7 @@ Einheit nicht am Wetter hängt.
 | 50 | 13.12. | 4 | E11 | Hashfunktionen, Signaturen, kryptographische Ziele |
 | 51 | 20.12. | 4 | E11 | PKI, Zertifikate, Vertrauensmodelle; Angriffe |
 | 52, 01 | | 0 | | Weihnachtsferien bis 08.01.2028 |
-| 02 | 10.01.2028 | 4 | E11 | **K6 Di 11.01.**; Do Datenschutz und Massendaten bewerten |
+| 02 | 10.01.2028 | 4 | E11 | **K6 (Termin folgt)**; Do Datenschutz und Massendaten bewerten |
 | 03 | 17.01. | 6 | E12 | Prüfungsformat, Operatoren, Aufgabentypen des Pflichtteils; Rückgabe K6 |
 | 04 | 24.01. | 4 | E12 | Pflichtteil-Training (Codierung, Rekursion, SQL, Automaten); Zeugnis 28.01. |
 | 05 | 31.01. | 6 | E12 | B1: Programmiertechniken und OOP mit den Prüfungen 2023 bis 2027 |
@@ -607,7 +607,7 @@ Einheit nicht am Wetter hängt.
 | 08 | 21.02. | 2 | E12 | B2: Graphen; Fastnacht ab Do 24.02. (Annahme) |
 | 09 | 28.02. | 4 | E12 | B3: Automaten und Sprachen |
 | 10 | 06.03. | 4 | E12 | B3: technische Informatik; Vorbereitung der Simulation |
-| 11 | 13.03. | 6 | E12 | **K7 Di 14.03. Abitursimulation**; Mi/Do B4 Datenbanken |
+| 11 | 13.03. | 6 | E12 | **K7 Abitursimulation (Termin folgt)**; Mi/Do B4 Datenbanken |
 | 12 | 20.03. | 4 | E12 | B4: Kryptologie und Datenschutz; Rückgabe K7, Fehleranalyse |
 | 13 | 27.03. | 6 | E12 | Training der eigenen Schwachstellen, Wahlstrategie B |
 | 14 | 03.04. | 4 | E12 | Teilaufgaben unter Zeitdruck, Zeitmanagement |
@@ -622,17 +622,16 @@ Einheit nicht am Wetter hängt.
 
 | Nr. | Termin | Halbjahr | Stoff | Form |
 |---|---|---|---|---|
-| K1 | Di 17.11.2026 | J1.1 | E1, Objektorientierung bis Vererbung | 2 Std, A-Stil plus kleine B1 |
-| K2 | Di 12.01.2027 | J1.1 | E2, E3 ohne Hash | 2 Std |
-| K3 | Di 16.03.2027 | J1.2 | E4, E5 bis elementare Sortierverfahren | 2 Std |
-| K4 | Di 29.06.2027 | J1.2 | E5 höhere Verfahren, E6, E7 bis Abfragen | 2 Std |
-| K5 | Di 26.10.2027 | J2.1 | E9 | 2 Std, nach B3-Muster |
-| K6 | Di 11.01.2028 | J2.1 | E10, E11 | 2 Std |
-| K7 | Di 14.03.2028 | J2.2 | Abitursimulation | 270 min, falls genehmigt |
+| K1 | folgt | J1.1 | E1, Objektorientierung bis Vererbung | 2 Std, A-Stil plus kleine B1 |
+| K2 | folgt | J1.1 | E2, E3 ohne Hash | 2 Std |
+| K3 | folgt | J1.2 | E4, E5 bis elementare Sortierverfahren | 2 Std |
+| K4 | folgt | J1.2 | E5 höhere Verfahren, E6, E7 bis Abfragen | 2 Std |
+| K5 | folgt | J2.1 | E9 | 2 Std, nach B3-Muster |
+| K6 | folgt | J2.1 | E10, E11 | 2 Std |
+| K7 | folgt | J2.2 | Abitursimulation | 270 min, falls genehmigt |
 
-Alle Klausuren liegen auf dem Dienstagsblock (1./2. Stunde), damit Oken-Schüler und Nachschreiber
-planbar sind. Die Termine müssen in den iServ-Klausurplan und gegen die Klausuren der anderen
-Leistungsfächer abgestimmt werden.
+Die Klausurtermine der Oberstufe legt die Schule zentral fest. Sie stehen hier, sobald sie
+veröffentlicht sind.
 
 **GFS-Angebote** (Schüler wählen ihre GFS-Fächer bis Ende Oktober 2026): Sortierverfahren im
 Laufzeitvergleich mit eigener Messung (E5), Turingmaschine und Berechenbarkeit (E9), RSA vollständig
@@ -686,7 +685,7 @@ den Lehrstoff im WebUntis-Klassenbuch.
    Wochen verkürzt wird (dann bekommt E2 die Zeit für das Spielprojekt).
 2. **iServ-Gruppe und Forum für den neuen Kurs anlegen** (bisher gibt es nur `j2.lf.inf1` vom
    Vorgängerkurs). Erst dann kann XP-Edu den Kurs automatisch zuordnen.
-3. **Klausurtermine** in den iServ-Klausurplan eintragen und gegen die anderen Leistungsfächer prüfen;
+3. **Klausurtermine** aus dem zentralen Oberstufenplan übernehmen, sobald er veröffentlicht ist;
    Klausur 7 als 270-Minuten-Simulation mit der Schulleitung klären.
 4. **J2-Annahmen prüfen**, sobald Stundenplan und Kalender 2027/28 stehen: Stundenraster, Fastnacht,
    Studienfahrt, Notenschluss J2.1 und J2.2.

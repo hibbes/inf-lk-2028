@@ -3,7 +3,7 @@
 ## A. Das Wichtigste zum Kurs
 
 - Fünf Stunden pro Woche: Di 1./2., Do 8./9., Mi 1./2. nur in ungeraden Kalenderwochen (in dieser Woche also ja, nächste Woche nein).
-- Sieben Klausuren in zwei Jahren, die ersten beiden am Di 17.11.2026 und Di 12.01.2027, immer in der 1./2. Stunde.
+- Sieben Klausuren in zwei Jahren. Die Termine legt die Schule zentral fest, sie werden bekannt gegeben, sobald sie feststehen.
 - Schriftliches Abitur Informatik: Dienstag, 02.05.2028, 270 Minuten, Pflichtteil plus drei von vier Wahlaufgaben.
 - Drei Orte: dieses Repo (was wir gemacht haben, Aufgaben, Links), die Schmiede unter learn.schiller-offenburg.de (Üben mit Punkten, Anmeldung mit dem iServ-Konto), die iServ-Gruppe J1_LF_Inf1 (Forum, Dateien, Messenger).
 - Arbeitsweise: Testfälle zuerst, dann Code. Was die Schmiede prüft, prüft ihr im Kopf vorher selbst.

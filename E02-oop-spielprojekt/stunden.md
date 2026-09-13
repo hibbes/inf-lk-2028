@@ -16,7 +16,7 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 | 10.11.2026 | Di | 1./2. Stunde | Polymorphie, abstrakte Klassen, Interfaces, Casts; Wiederholung |  |  |
 | 11.11.2026 | Mi | 1./2. Stunde |  |  |  |
 | 12.11.2026 | Do | 8./9. Stunde |  |  |  |
-| 17.11.2026 | Di | 1./2. Stunde | Klausur 1 |  |  |
+| 17.11.2026 | Di | 1./2. Stunde | noch offen (Klausur 1: Termin folgt) |  |  |
 | 19.11.2026 | Do | 8./9. Stunde |  |  |  |
 | 24.11.2026 | Di | 1./2. Stunde | Collections, foreach, Generics, Lambda; Composite (rekursive Assoziation) |  |  |
 | 25.11.2026 | Mi | 1./2. Stunde |  |  |  |

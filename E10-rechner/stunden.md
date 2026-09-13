@@ -8,7 +8,7 @@ Die Termine sind aus dem angenommenen Stundenraster 2027/28 gerechnet und werden
 
 | Datum | Tag | Stunde | Thema (geplant) | Was wir gemacht haben | Hausaufgabe |
 |---|---|---|---|---|---|
-| 27.10.2027 | Mi | 1./2. Stunde | Klausur 5 (Di); Boolesche Algebra, Gatter, Wahrheitstafeln |  |  |
+| 27.10.2027 | Mi | 1./2. Stunde | Boolesche Algebra, Gatter, Wahrheitstafeln |  |  |
 | 28.10.2027 | Do | 8./9. Stunde |  |  |  |
 | 09.11.2027 | Di | 1./2. Stunde | Schaltnetze im Simulator, De Morgan, DNF und KNF |  |  |
 | 10.11.2027 | Mi | 1./2. Stunde |  |  |  |

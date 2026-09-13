@@ -26,7 +26,7 @@ Die Termine sind aus dem angenommenen Stundenraster 2027/28 gerechnet und werden
 | 02.03.2028 | Do | 8./9. Stunde |  |  |  |
 | 07.03.2028 | Di | 1./2. Stunde | B3: technische Informatik; Vorbereitung der Simulation |  |  |
 | 09.03.2028 | Do | 8./9. Stunde |  |  |  |
-| 14.03.2028 | Di | 1./2. Stunde | Klausur 7 (Abitursimulation) |  |  |
+| 14.03.2028 | Di | 1./2. Stunde | noch offen (Klausur 7 als Abitursimulation: Termin folgt) |  |  |
 | 15.03.2028 | Mi | 1./2. Stunde |  |  |  |
 | 16.03.2028 | Do | 8./9. Stunde |  |  |  |
 | 21.03.2028 | Di | 1./2. Stunde | B4: Kryptologie und Datenschutz; Rückgabe K7, Fehleranalyse |  |  |

@@ -99,7 +99,7 @@ der Sache und nicht aus der Aufgabe:
 | Di 13.10. | Projektauftrag, Wahl: Spiel oder Simulator |
 | Do 05.11. | Entwurf: UML-Klassendiagramm und das Physikmodell auf einer Seite, Besprechung |
 | Do 12.11. | Zwischenstand: Simulation ohne Luftwiderstand läuft, Prüfungen 1 und 2 bestanden, Animation zeigt Rakete und Höhe |
-| Di 17.11. | Klausur 1 (für alle, nicht projektbezogen) |
+| Termin folgt | Klausur 1 (für alle, nicht projektbezogen) |
 | Do 26.11. | Vollausbau: Luftwiderstand, Masseabnahme, Fallschirm, CSV, Höhenbereich |
 | Di 01.12. | Abgabe; Präsentationen am 01. und 03.12. |
 | Frühjahr 2027 | Start der Rakete, Vergleich mit dem Bordsensor, Nachtrag zur Vorhersage |

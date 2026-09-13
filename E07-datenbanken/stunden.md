@@ -16,7 +16,7 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 | 22.06.2027 | Di | 1./2. Stunde | SQL-Abfragen: Projektion, Selektion, Verbund, Gruppierung, Aggregate |  |  |
 | 23.06.2027 | Mi | 1./2. Stunde |  |  |  |
 | 24.06.2027 | Do | 8./9. Stunde |  |  |  |
-| 29.06.2027 | Di | 1./2. Stunde | Klausur 4 |  |  |
+| 29.06.2027 | Di | 1./2. Stunde | noch offen (Klausur 4: Termin folgt) |  |  |
 | 01.07.2027 | Do | 8./9. Stunde |  |  |  |
 | 06.07.2027 | Di | 1./2. Stunde | SQL-Injection und Prepared Statements, JDBC, Rückgabe K4 |  |  |
 | 07.07.2027 | Mi | 1./2. Stunde |  |  |  |
