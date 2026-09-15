@@ -23,6 +23,12 @@ wird wichtiger?
 eine Forderung. Hilfsfragen: Wer verdient daran, wer zahlt? Was passiert mit der Aufgabe, die gerade
 ein Mensch macht?
 
+## Unser Fazit
+
+Am Ende der Stunde waren wir uns einig: Wer KI nur nachplappert, ist ersetzbar. Wer die Thematik
+wirklich versteht, wird mit KI produktiver. Und große Sprachmodelle bieten eine große Chance für
+individualisiertes Lernen.
+
 ## Was ein Sprachmodell tut (in acht Sätzen)
 
 Ein großes Sprachmodell ist eine Wahrscheinlichkeitsmaschine für Sprache. Es wurde mit riesigen
