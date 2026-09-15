@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>Unsere KI-Vereinbarung</title>
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; }
+  :root {
+    --petrol: #004058;
+    --petrol-light: #0a5c78;
+    --gold: #ffd566;
+    --ink: #1f2a2e;
+    --muted: #5a6b70;
+    --paper: #ffffff;
+    --card: #f4f7f8;
+  }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: 'Plus Jakarta Sans', 'Helvetica', sans-serif;
+    color: var(--ink);
+    background: var(--paper);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .page {
+    width: 210mm;
+    min-height: 297mm;
+    padding: 16mm 18mm 14mm 18mm;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  /* Kopf */
+  header {
+    background: var(--petrol);
+    color: #fff;
+    border-radius: 10px;
+    padding: 14px 20px 16px;
+    position: relative;
+    overflow: hidden;
+  }
+  header::after {
+    content: "";
+    position: absolute;
+    left: 20px; right: 20px; bottom: 10px;
+    height: 3px;
+    background: var(--gold);
+    border-radius: 2px;
+  }
+  .eyebrow {
+    font-size: 10.5pt; font-weight: 600; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--gold); margin: 0 0 4px;
+  }
+  header h1 { font-size: 25pt; font-weight: 800; margin: 0 0 6px; line-height: 1.05; }
+  header p { font-size: 11pt; margin: 0 0 6px; color: #cfe4ea; font-weight: 500; }
+  /* Einleitung */
+  .lead {
+    font-size: 10.8pt; color: var(--muted); margin: 12px 2px 6px;
+    line-height: 1.45;
+  }
+  /* Regelliste */
+  .rules { list-style: none; margin: 4px 0 0; padding: 0; flex: 1; }
+  .rule {
+    display: flex; gap: 14px; align-items: flex-start;
+    background: var(--card);
+    border-left: 4px solid var(--petrol);
+    border-radius: 8px;
+    padding: 11px 15px 11px 13px;
+    margin: 0 0 9px;
+    page-break-inside: avoid;
+  }
+  .num {
+    flex: 0 0 34px; height: 34px; width: 34px;
+    background: var(--petrol); color: var(--gold);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 800; font-size: 15pt;
+  }
+  .rule .body { flex: 1; }
+  .rule .title { font-size: 12pt; font-weight: 700; color: var(--petrol); margin: 1px 0 3px; }
+  .rule .text { font-size: 10.6pt; line-height: 1.42; color: var(--ink); margin: 0; }
+  .rule .text code {
+    font-family: 'Courier New', monospace; font-size: .92em;
+    background: #e6edee; padding: 1px 4px; border-radius: 3px;
+  }
+  /* Fuss */
+  footer {
+    margin-top: 12px; padding-top: 8px;
+    border-top: 1px solid #dbe4e6;
+    display: flex; justify-content: space-between;
+    font-size: 9pt; color: var(--muted);
+  }
+  footer .gold-dot { color: var(--gold); font-weight: 800; }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <p class="eyebrow">Informatik-Leistungskurs &middot; Abitur 2028</p>
+    <h1>Unsere KI-Vereinbarung</h1>
+    <p>Sechs Regeln, wie wir in diesem Kurs mit KI-Werkzeugen umgehen.</p>
+  </header>
+
+  <p class="lead">Wir lernen Informatik in einer Zeit, in der es KI gibt. Diese Regeln haben wir
+  gemeinsam beschlossen. Sie gelten für alle, auch für die Lehrkraft.</p>
+
+  <ol class="rules">
+    <li class="rule">
+      <div class="num">1</div>
+      <div class="body">
+        <div class="title">Lernen zuerst.</div>
+        <p class="text">Die Übungen in der Schmiede und alles, was wir „von Hand“ üben, machen wir ohne
+        KI. Klausuren und Abitur sind ohnehin ohne, und was dort zählt, muss im Kopf sein.</p>
+      </div>
+    </li>
+    <li class="rule">
+      <div class="num">2</div>
+      <div class="body">
+        <div class="title">Erklären lassen ist erlaubt, machen lassen nicht.</div>
+        <p class="text">Ein guter Prompt heißt „Erklär mir, warum meine Schleife nicht endet“,
+        kein guter heißt „Löse Aufgabe 3“.</p>
+      </div>
+    </li>
+    <li class="rule">
+      <div class="num">3</div>
+      <div class="body">
+        <div class="title">Wer KI-Hilfe genutzt hat, sagt es.</div>
+        <p class="text">Ein Kommentar im Code oder ein Satz bei der Abgabe genügt. Das ist kein
+        Geständnis, sondern Handwerk: Auch Profis schreiben dazu, woher Code stammt.</p>
+      </div>
+    </li>
+    <li class="rule">
+      <div class="num">4</div>
+      <div class="body">
+        <div class="title">Was du abgibst, kannst du erklären.</div>
+        <p class="text">Bei Projektabgaben gibt es ein kurzes Gespräch über den eigenen Code.</p>
+      </div>
+    </li>
+    <li class="rule">
+      <div class="num">5</div>
+      <div class="body">
+        <div class="title">Keine Namen, keine Schuldaten in KI-Werkzeuge.</div>
+        <p class="text">Der schulische Zugang ist AIS.chat über einen QR-Code, den die Lehrkraft
+        freigibt; dort landen keine Eingaben im Training. Andere Werkzeuge nur privat und ohne Daten
+        anderer Menschen.</p>
+      </div>
+    </li>
+    <li class="rule">
+      <div class="num">6</div>
+      <div class="body">
+        <div class="title">Ab Einheit 8 arbeiten wir bewusst mit KI als Programmierpartner.</div>
+        <p class="text">Mit git, mit Tests und mit den Regeln von oben.</p>
+      </div>
+    </li>
+  </ol>
+
+  <footer>
+    <span>Schiller-Gymnasium Offenburg <span class="gold-dot">&middot;</span> Informatik-LK</span>
+    <span>Stand 15.09.2026</span>
+  </footer>
+</div>
+</body>
+</html>
