@@ -9,15 +9,18 @@
 - Arbeitsweise: Testfälle zuerst, dann Code. Was die Schmiede prüft, prüft ihr im Kopf vorher selbst.
 - Zu KI im Kurs: siehe `ki-und-wir.md` (Thesen, Tischfragen, unsere Vereinbarung).
 
-## B. Hausaufgaben der Woche
+## B. Was ansteht
 
-| bis | Aufgabe |
+**In der Regel gibt es keine Hausaufgaben.** Was zu üben ist, üben wir in der Stunde. Die Schmiede
+steht euch trotzdem jederzeit offen, und wer zu Hause weitermacht, hat in der Stunde mehr Luft für
+die schweren Aufgaben.
+
+| wann | was |
 |---|---|
-| Mi 16.09. | Steckbrief ausgefüllt mitbringen. Einen Satz überlegen, den ihr an der KI-Vereinbarung ändern oder ergänzen wollt. Messenger-Raum „Informatik LK J1 (Abi 2028)“ beitreten (dazu den Messenger einmal öffnen). |
-| Do 17.09. | Schmiede, Lektion 2 „Methoden und Bedingungen“ fertig (`istSchaltjahr` und `notenpunkte` dürfen offen bleiben, die machen wir gemeinsam). |
-| Di 22.09. | Schmiede, Lektion 3 „Schleifen und Arrays“: mindestens `summe`, `maximum`, `mittelwert`. Programm „Zahlenanalyse“ (Teil D) als Datei ins Forum der Gruppe. Teil C (Kopfrechnen) auf Papier vorbereiten. Freiwillig: Lektion 4 „Strings“ anfangen. |
+| Di 22.09. | Kopfrechnen mit Arrays und `zweitgroesstes` von Hand (Teil C unten), Programm „Zahlenanalyse“ in BlueJ zu Ende (Teil D unten), Schmiede Lektion 3 „Schleifen und Arrays“ (`summe`, `maximum`, `mittelwert`), dazu Datentypen, Wertebereiche und Casts. |
+| offen | `notenpunkte` aus Lektion 2, das machen wir gemeinsam. Wer Lust hat, fängt Lektion 4 „Strings“ an. |
 
-## C. Kopfrechnen mit Arrays (Vorbereitung auf Dienstag, 22.09., ohne Rechner)
+## C. Kopfrechnen mit Arrays (machen wir am Dienstag, 22.09., ohne Rechner)
 
 Gegeben ist `int[] a = {4, 9, 1, 7};`
 

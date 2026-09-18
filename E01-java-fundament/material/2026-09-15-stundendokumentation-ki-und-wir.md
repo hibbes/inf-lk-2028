@@ -85,7 +85,7 @@ Die Lektion prüft die Befehle, die du am Donnerstag im eigenen Projekt gebrauch
 Eine `.gitignore` mit den Zeilen `*.class` und `*.ctxt` hält die erzeugten Dateien aus dem Verlauf
 heraus. Versioniert wird der Quelltext, nicht das Übersetzungsergebnis.
 
-## Hausaufgabe aus dieser Stunde
+## Wie es weiterging
 
-Bis Mittwoch, 16.09.: Steckbrief ausgefüllt mitbringen, einen Satz überlegen, den du an der
-KI-Vereinbarung ändern oder ergänzen willst, dem Messenger-Raum beitreten.
+Am Mittwoch hat der Kurs die Vereinbarung beschlossen. Die beschlossene Fassung steht in
+[`ki-und-wir.md`](ki-und-wir.md).

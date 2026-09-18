@@ -198,7 +198,7 @@ und Aktualisierung ändern sich. Genau deshalb programmiert ihr die selbst.
 
 | Falle | Frage | Was du wissen musst |
 |---|---|---|
-| Startwert 0 beim Maximum | „Geht `int max = 0;` immer gut?“ | Nein. Den Startwert aus dem Array nehmen: `int max = a[0];`. **Bei welchem Array die 0 danebengeht, ist Frage 3 in Teil C eurer Hausaufgabe.** Die Antwort steht hier bewusst nicht. |
+| Startwert 0 beim Maximum | „Geht `int max = 0;` immer gut?“ | Nein. Den Startwert aus dem Array nehmen: `int max = a[0];`. **Bei welchem Array die 0 danebengeht, ist Frage 3 in Teil C.** Die klären wir am Dienstag gemeinsam, die Antwort steht hier bewusst nicht. |
 | Ganzzahldivision beim Mittelwert | „Was ergibt `21 / 4`?“ | `5`, nicht `5.25`. Bei zwei `int` rechnet Java ganzzahlig. Richtig ist `(double) summe / a.length`. Falsch ist `(double) (summe / a.length)`: Da kommt der Cast zu spät, das Ergebnis ist 5.0. |
 | `a.length` gegen `a.length - 1` | „Welcher Index ist der letzte?“ | `a.length - 1`. Deshalb `i < a.length`, nicht `i <= a.length`. Sonst: `ArrayIndexOutOfBoundsException`. |
 
@@ -234,15 +234,15 @@ nichts geht zu GitHub. Wer fertig war: eine Zeile ändern, `git diff`, zweiter C
 ## Noch nicht hier: die Zahlenanalyse
 
 Die Musterlösung zum Programm „Zahlenanalyse“ (Teil D) und die Lösungen zum Kopfrechnen (Teil C)
-stehen **noch nicht** in dieser Datei. Beides ist Hausaufgabe bis Dienstag, 22.09., und in diesem Repo
-gilt: Lösungen erscheinen erst nach der Abgabefrist. Nach der Stunde am Dienstag werden sie hier
-nachgetragen.
+stehen **noch nicht** in dieser Datei. Beides machen wir am **Dienstag, 22.09., gemeinsam im
+Unterricht**; danach werden die Lösungen hier nachgetragen.
 
-Wenn du beim Programmieren hängst, nimm die **Hinweiskarten in Teil E** von
-[`woche-1-aufgaben.md`](woche-1-aufgaben.md). Und prüfe deine Methoden mit eigenen Arrays, nicht nur
-mit dem Starter-Array: Zwei typische Fehler fallen ausgerechnet beim Starter-Array nicht auf.
+Wer selbst weiterprobieren will: Die **Hinweiskarten in Teil E** von
+[`woche-1-aufgaben.md`](woche-1-aufgaben.md) helfen, wenn es klemmt. Und prüf deine Methoden mit
+eigenen Arrays, nicht nur mit dem Starter-Array: Zwei typische Fehler fallen ausgerechnet beim
+Starter-Array nicht auf.
 
-## Hausaufgabe aus dieser Stunde
+## Was am Dienstag drankommt
 
-Bis Dienstag, 22.09.: Lektion 2 komplett, Lektion 3 mindestens `summe`, `maximum`, `mittelwert`,
-Programm „Zahlenanalyse“ als Datei ins Forum der Gruppe, Teil C (Kopfrechnen) auf Papier vorbereitet.
+Kopfrechnen mit Arrays und `zweitgroesstes` von Hand (Teil C), die Zahlenanalyse in BlueJ zu Ende
+gebracht (Teil D), dazu Datentypen, Wertebereiche und Casts.

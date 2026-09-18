@@ -4,8 +4,8 @@
 
 ## Was wir gemacht haben
 
-1. **KI-Vereinbarung beschlossen.** Die Sätze aus der Hausaufgabe sind in den Entwurf vom Dienstag
-   eingearbeitet, der Kurs hat die Fassung beschlossen. Sie steht in
+1. **KI-Vereinbarung beschlossen.** Die Änderungswünsche aus der Stunde vom Dienstag sind in den
+   Entwurf eingearbeitet, der Kurs hat die Fassung beschlossen. Sie steht in
    [`ki-und-wir.md`](ki-und-wir.md) und gilt ab sofort.
 2. **Diagnose** in der Schmiede, Lektion 1 „Einstieg: Woher kommst du?“: sechs Coding-Aufgaben und
    das Quiz, Einzelarbeit, ohne Hilfe und ohne KI. Nichts davon zählt als Note.
@@ -208,6 +208,8 @@ public static boolean zwischen(int x, int a, int b) {
 Donnerstag gemeinsam entwickelt, die Lösung steht in der Stundendokumentation vom 17.09.
 `notenpunkte` ist noch offen und wird im Unterricht besprochen.
 
-## Hausaufgabe aus dieser Stunde
+## Wie es weiterging
 
-Bis Donnerstag, 17.09.: Lektion 2 fertig, `istSchaltjahr` und `notenpunkte` durften offen bleiben.
+`istSchaltjahr` haben wir am Donnerstag gemeinsam entwickelt, die Herleitung und der Code stehen in
+der [Stundendokumentation vom 17.09.](2026-09-17-stundendokumentation-signatur-und-testfaelle.md).
+`notenpunkte` kommt noch im Unterricht dran.
