@@ -130,9 +130,11 @@ Für die Planung heißt das: jede dieser Lücken ist eine eigene Einheit oder ei
 |---|---|---|
 | 15.09.2026 | Erste Kursstunde (Di 1./2.) | Diagnosewoche, GFS-Fachwahl läuft bis Ende Oktober |
 | 07.10.2026 | Elternabend J1 | Kursstruktur und die drei Plattformen vorstellen |
+| 20.10.2026 | **Klausur 1** (zentraler Klausurenplan J1.1) | letzte Woche vor den Herbstferien, E1 muss am 08.10. abgeschlossen sein |
 | 26. bis 30.10.2026 | Herbstferien | KW44 fällt weg |
 | 18.11.2026 | Studieninformationstag J1 | Mi-Block entfällt, KW47 hat nur 4 Stunden |
-| 20.01.2027 | **Notenschluss J1.1** | Klausur 2 muss vorher geschrieben sein |
+| 15.12.2026 | **Klausur 2** (zentraler Klausurenplan J1.1) | eine Woche nach Beginn von E3 |
+| 20.01.2027 | **Notenschluss J1.1** | K2 am Di 15.12.2026, Rückgabe Di 12.01. |
 | 26.01.2027 | Halbjahreskonferenz J1 | |
 | 04. bis 09.02.2027 | Fastnachtsferien | KW05 und KW06 haben zusammen nur 6 Stunden |
 | 22.03. bis 02.04.2027 | Osterferien | Klausur 3 vorher |
@@ -161,8 +163,8 @@ Fastnachtstage. Eine J2-Studienfahrt ist in der Rechnung nicht enthalten.
 | Einheit | Zeitraum | Std | Schwerpunkt | Klausur | XP-Edu-Unit |
 |---|---|---|---|---|---|
 | **E1 Java-Fundament** | KW38-41, 15.09. bis 08.10.2026 | 20 | Methoden, Typen, Strings, Arrays, Codeanalyse, Fehlersuche | | `lk-java-fundament` |
-| **E2 Objektorientierung und Spielprojekt** | KW42-49, 13.10. bis 03.12.2026 | 34 | Klassen, Vererbung, Polymorphie, UML, Collections, Spiel nach Panitz | K1 (Termin folgt) | `lk-oop-spielprojekt` |
-| **E3 Daten und Codierung** | KW50-02, 08.12.2026 bis 14.01.2027 | 16 | Zweierkomplement, Festkomma, Textcodes, Huffman, LZW, RLE, Hash | K2 (Termin folgt) | `lk-daten-codierung` |
+| **E2 Objektorientierung und Spielprojekt** | KW42-49, 13.10. bis 03.12.2026 | 34 | Klassen, Vererbung, Polymorphie, UML, Collections, Spiel nach Panitz | K1 Di 20.10. | `lk-oop-spielprojekt` |
+| **E3 Daten und Codierung** | KW50-02, 08.12.2026 bis 14.01.2027 | 16 | Zweierkomplement, Festkomma, Textcodes, Huffman, LZW, RLE, Hash | K2 Di 15.12. | `lk-daten-codierung` |
 | **E4 Rekursion** | KW03-06, 19.01. bis 11.02.2027 | 16 | Hanoi, Aufrufbaum, Divide and Conquer, Fraktale, Backtracking | | `lk-rekursion` |
 | **E5 Datenstrukturen und Sortieren** | KW07-15, 16.02. bis 15.04.2027 | 36 | Listen, Stack, Queue, Binärbaum, Suchen, Sortieren, O-Notation | K3 (Termin folgt) | `lk-datenstrukturen-sortieren` |
 | **E6 Graphen** | KW16-19, 20.04. bis 13.05.2027 | 18 | Adjazenz, BFS/DFS, Dijkstra, MST, P gegen NP, Greedy | | `lk-graphen` |
@@ -250,8 +252,7 @@ Kompositum aus Bauteilen, Messpunkte als `ArrayList` mit CSV-Export (der Übungs
 UML vor dem Code. Ergebnis ist eine vorhergesagte Gipfelhöhe für den Start im Frühjahr, geprüft
 gegen Höhen- und Schubsensor an Bord. Projektauftrag: `E02-oop-spielprojekt/material/projekt-flugsimulator.md`.
 
-**Klausur 1 (Termin folgt):** E1 komplett und Objektorientierung bis Vererbung; Pflichtteil-A-
-Stil (Codeanalyse, Methode implementieren, Begriffe) plus eine kleine B1-Aufgabe.
+**Klausur 1 (Di 20.10.2026, KW43, zentraler Klausurenplan J1.1 vom 24.09.2026):** E1 komplett; aus E2 nur, was in KW42 lief (eine gegebene Klasse lesen, Objekt erzeugen). Pflichtteil-A-Stil (Codeanalyse, Methode implementieren, Begriffe). Die Klausur liegt fünf Wochen früher als ursprünglich geplant und vor der Vererbung; die kleine B1-Aufgabe wandert in Klausur 2. Rückgabe Di 03.11.
 
 **Hausübliches Material:** `Practices2425` (Fahrzeug/Auto/Fahrrad/Zug, Kriechbar/Rennschnecken,
 Medium/Buch/DVD/Zeitschrift, Eintrag/Verzeichnis, BauernhofVerwaltung, OutputQuiz2), `Uebung_HundeObjekt`,
@@ -280,8 +281,7 @@ Hashfunktionen als Konzept (Fingerprint, Integrität, ISBN-Prüfziffer; Kryptolo
 Am Di 22.12. die hausübliche Weihnachtsstunde: ASCII-Weihnachtsbaum programmieren
 (`Xmas2018`, `Weihnachtsbaum.java`), zugleich Vorgriff auf Rekursion.
 
-**Klausur 2 (Termin folgt):** E2 (UML, Vererbung, Polymorphie, Klasse implementieren) und
-E3 ohne Hash. Rückgabe Do 14.01., Notenschluss 20.01.
+**Klausur 2 (Di 15.12.2026, KW51, zentraler Klausurenplan J1.1 vom 24.09.2026):** E2 komplett (UML, Vererbung, Polymorphie, Collections, Klasse implementieren, B1-Stil wie 2026) und aus E3 nur Zweierkomplement und Overflow aus KW50. Rückgabe Di 12.01., Notenschluss 20.01. Der Rest von E3 (Textcodierung, Kompression, Hash) geht als A-Teil in Klausur 3.
 
 **XP-Edu `lk-daten-codierung`, 5 Lektionen:** (1) Zahlensysteme und Zweierkomplement (Zahl,
 Texteingabe mit Bitfolgen); (2) Rechnen mit endlicher Stellenzahl, Overflow, Festkomma (Zahl, Quiz);
@@ -326,7 +326,7 @@ ein nicht-vergleichsbasiertes Verfahren; O-Notation, Speicherbedarf, Stabilität
 average case. Die Fundus-Metaregeln steuern die Tiefe: Merge- und Quicksort werden im Quelltext
 analysiert, nicht in der Klausur implementiert.
 
-**Klausur 3 (Termin folgt):** E4 und E5 bis zu den elementaren Sortierverfahren.
+**Klausur 3 (Termin folgt):** E3 Codierung und Kompression als A-Teil, E4 und E5 bis zu den elementaren Sortierverfahren.
 
 **Hausübliches Material:** `Practices2425` (List, ListenElement, QueueWithList, MergeSort,
 Sortieralgorithmen mit Bubble/Gnome/Bogo, Galtonbrett mit Knoten), `ADT`, `Listen`, Forum 43
@@ -537,19 +537,19 @@ Einheit nicht am Wetter hängt.
 | 39 | 21.09. | 4 | E1 | Datentypen, Wertebereiche, Casts, Strings |
 | 40 | 28.09. | 6 | E1 | Arrays und Array-Algorithmen, erste Codeanalysen |
 | 41 | 05.10. | 4 | E1 | Fehlerarten, Debugger, Struktogramm lesen, Javadoc; Abschluss E1 |
-| 42 | 12.10. | 6 | E2 | Klassen, Objekte, Konstruktoren, Kapselung; Spiel-Framework kennenlernen |
-| 43 | 19.10. | 4 | E2 | Referenzen, null, static; erste Spielobjekte |
+| 42 | 12.10. | 6 | E2 | Klassen, Objekte, Konstruktoren, Kapselung; Spiel-Framework kennenlernen; Do Wiederholung E1 für K1 |
+| 43 | 19.10. | 4 | E2 | **K1 Di 20.10.**; Do Referenzen, null, static |
 | 44 | 26.10. | 0 | | Herbstferien |
-| 45 | 02.11. | 4 | E2 | Vererbung, UML-Klassendiagramm |
+| 45 | 02.11. | 4 | E2 | Rückgabe K1; Vererbung, UML-Klassendiagramm |
 | 46 | 09.11. | 6 | E2 | Polymorphie, abstrakte Klassen, Interfaces, Casts; Wiederholung |
-| 47 | 16.11. | 4 | E2 | **K1 (Termin folgt)**; Mi Studieninformationstag; Do Projektarbeit |
+| 47 | 16.11. | 4 | E2 | Di erste Spielobjekte, Projektarbeit; Mi Studieninformationstag; Do Projektarbeit |
 | 48 | 23.11. | 6 | E2 | Collections, foreach, Generics, Lambda; Composite (rekursive Assoziation) |
-| 49 | 30.11. | 4 | E2 | Abnahme und Präsentation Spielprojekt, Rückgabe K1 |
-| 50 | 07.12. | 6 | E3 | Zweierkomplement, Rechnen, Overflow, Festkomma, Hexadezimal |
-| 51 | 14.12. | 4 | E3 | Textcodierung, Codemerkmale, Huffman, Lauflängencodierung |
-| 52 | 21.12. | 2 | E3 | LZW; Di 22.12. Weihnachtsprogrammieren |
+| 49 | 30.11. | 4 | E2 | Abnahme und Präsentation Spielprojekt |
+| 50 | 07.12. | 6 | E3 | Di/Mi Zweierkomplement, Rechnen, Overflow, Festkomma, Hexadezimal; Do Wiederholung E2 für K2 |
+| 51 | 14.12. | 4 | E3 | **K2 Di 15.12.**; Do Textcodierung, Codemerkmale |
+| 52 | 21.12. | 2 | E3 | Di 22.12. Weihnachtsprogrammieren |
 | 53, 01 | | 0 | | Weihnachtsferien bis 08.01. |
-| 02 | 11.01.2027 | 4 | E3 | **K2 (Termin folgt)**; Do Hashfunktionen, Rückgabe |
+| 02 | 11.01.2027 | 4 | E3 | Di Rückgabe K2, Huffman, Lauflängencodierung; Do LZW, Hashfunktionen als Ausblick (Vertiefung in E11) |
 | 03 | 18.01. | 6 | E4 | Rekursionsbasis und -schritt, Fakultät, Fibonacci, Aufrufbaum, call stack |
 | 04 | 25.01. | 4 | E4 | Hanoi, Divide and Conquer, Palindrom und Binärdarstellung rekursiv |
 | 05 | 01.02. | 4 | E4 | iterativ gegen rekursiv, Laufzeit; Fraktale (Koch, Sierpinski) |
@@ -622,16 +622,16 @@ Einheit nicht am Wetter hängt.
 
 | Nr. | Termin | Halbjahr | Stoff | Form |
 |---|---|---|---|---|
-| K1 | folgt | J1.1 | E1, Objektorientierung bis Vererbung | 2 Std, A-Stil plus kleine B1 |
-| K2 | folgt | J1.1 | E2, E3 ohne Hash | 2 Std |
-| K3 | folgt | J1.2 | E4, E5 bis elementare Sortierverfahren | 2 Std |
+| K1 | Di 20.10.2026 | J1.1 | E1 komplett; aus E2 nur Klassen und Objekte lesen | 2 Std, A-Stil |
+| K2 | Di 15.12.2026 | J1.1 | E2 komplett (UML, Vererbung, Polymorphie, Collections, Klasse implementieren), dazu Zweierkomplement und Overflow | 2 Std, A-Stil plus B1 |
+| K3 | folgt | J1.2 | E3 Codierung und Kompression als A-Teil, E4, E5 bis elementare Sortierverfahren | 2 Std |
 | K4 | folgt | J1.2 | E5 höhere Verfahren, E6, E7 bis Abfragen | 2 Std |
 | K5 | folgt | J2.1 | E9 | 2 Std, nach B3-Muster |
 | K6 | folgt | J2.1 | E10, E11 | 2 Std |
 | K7 | folgt | J2.2 | Abitursimulation | 270 min, falls genehmigt |
 
-Die Klausurtermine der Oberstufe legt die Schule zentral fest. Sie stehen hier, sobald sie
-veröffentlicht sind.
+Die Klausurtermine der Oberstufe legt die Schule zentral fest. K1 und K2 stehen nach dem
+Klausurenplan J1.1; die weiteren Termine stehen hier, sobald sie veröffentlicht sind.
 
 **GFS-Angebote** (Schüler wählen ihre GFS-Fächer bis Ende Oktober 2026): Sortierverfahren im
 Laufzeitvergleich mit eigener Messung (E5), Turingmaschine und Berechenbarkeit (E9), RSA vollständig
