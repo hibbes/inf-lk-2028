@@ -4,26 +4,61 @@
 
 ## Was wir gemacht haben
 
-1. **Programm „Zahlenanalyse“ in BlueJ weitergeführt** (Teil D von
+1. **Kopfrechnen mit Arrays** (Teil C, Frage 1 und 2): Code lesen und vorher sagen, was herauskommt,
+   ohne Rechner.
+2. **Programm „Zahlenanalyse“ in BlueJ weitergeführt** (Teil D von
    [`woche-1-aufgaben.md`](woche-1-aufgaben.md)): die Methoden `maximum` und `zweitgroesstes`.
-2. **Die Falle beim Maximum:** Warum `int max = 0;` falsch ist, obwohl das Starter-Array ein
+3. **Die Falle beim Maximum:** Warum `int max = 0;` falsch ist, obwohl das Starter-Array ein
    richtiges Ergebnis liefert (Teil C, Frage 3).
-3. **`zweitgroesstes` von Hand:** zwei Variablen laufen durch das Array mit, als Wertetabelle.
-4. **Dann kam der Feueralarm.** Der Rest der Doppelstunde fiel aus: `mittelwert`, `anzahlGerade`,
-   das Histogramm, Teil C Frage 1 und 2, Datentypen und Casts sowie die Schmiede-Lektion 3 holen wir
-   nach.
+4. **`zweitgroesstes` von Hand:** zwei Variablen laufen durch das Array mit, als Wertetabelle.
+5. **Dann kam der Feueralarm.** Der Rest der Doppelstunde fiel aus: `mittelwert`, `anzahlGerade`,
+   das Histogramm, Datentypen und Casts sowie die Schmiede-Lektion 3 holen wir nach.
 
 ## Wenn du gefehlt hast
 
-1. Öffne dein BlueJ-Projekt vom 17.09. oder leg es neu an, mit dem Starter aus Teil D.
-2. Schreib `maximum` und `zweitgroesstes` **selbst**, bevor du unten weiterliest. Die Hinweiskarten in
+1. Beantworte Teil C, Frage 1 und 2 aus [`woche-1-aufgaben.md`](woche-1-aufgaben.md) auf Papier,
+   ohne Rechner, bevor du Abschnitt 1 unten liest.
+2. Öffne dein BlueJ-Projekt vom 17.09. oder leg es neu an, mit dem Starter aus Teil D.
+3. Schreib `maximum` und `zweitgroesstes` **selbst**, bevor du unten weiterliest. Die Hinweiskarten in
    Teil E helfen, wenn es klemmt.
-3. Prüf deine beiden Methoden mit allen vier Arrays aus der Tabelle „Selbsttest“ unten. Erst wenn alle
+4. Prüf deine beiden Methoden mit allen vier Arrays aus der Tabelle „Selbsttest“ unten. Erst wenn alle
    stimmen, lies die Musterlösung.
 
 ## Erwartungshorizont
 
-### 1. Maximum
+### 1. Kopfrechnen mit Arrays (Teil C, Frage 1 und 2)
+
+Gegeben ist `int[] a = {4, 9, 1, 7};`
+
+**Frage 1.** `a[a.length - 1]` liefert **7**. Das Array hat vier Elemente, `a.length` ist 4, die
+Indizes laufen von 0 bis 3. Der letzte Index ist also `a.length - 1 = 3`, und dort steht die 7.
+
+`a[a.length]` greift auf Index 4 zu, den es nicht gibt. Das Programm übersetzt, bricht aber beim
+Ausführen ab:
+
+```
+ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+```
+
+*Wichtig:* Der Compiler merkt das nicht, erst das laufende Programm. Java prüft jeden Array-Zugriff
+und hält lieber an, als eine falsche Zahl zu liefern.
+
+**Frage 2.** Die Schleife geht alle Elemente durch und addiert nur die, bei denen `a[i] % 2 == 1`
+ist, also die **ungeraden Zahlen**. Am Ende steht in `s`: 9 + 1 + 7 = **17**.
+
+| i | a[i] | a[i] % 2 | wird addiert? | s |
+|---|---|---|---|---|
+| Start | | | | 0 |
+| 0 | 4 | 0 | nein | 0 |
+| 1 | 9 | 1 | ja | 9 |
+| 2 | 1 | 1 | ja | 10 |
+| 3 | 7 | 1 | ja | 17 |
+
+*Zum Weiterdenken:* Bei negativen Zahlen geht das schief. `-3 % 2` ergibt in Java **-1**, nicht 1,
+und die -3 würde deshalb nicht mitgezählt. Wer „ungerade“ sicher prüfen will, schreibt
+`a[i] % 2 != 0`.
+
+### 2. Maximum
 
 ```java
 public static int maximum(int[] a) {
@@ -61,7 +96,7 @@ Ebenfalls richtig ist `int max = Integer.MIN_VALUE;`, der kleinste Wert, den ein
 > **Merksatz:** Ein Startwert, der nicht aus den Daten kommt, ist eine Behauptung über die Daten. Die
 > 0 behauptet: „Hier kommt mindestens eine Zahl ab 0 vor.“ Das stimmt nicht immer.
 
-### 2. Zweitgrößtes Element
+### 3. Zweitgrößtes Element
 
 Zwei Variablen laufen mit: `max` und `zweit`. Beide starten mit `Integer.MIN_VALUE`, damit jede
 echte Zahl größer ist.
@@ -111,7 +146,7 @@ oder das Element auf **Platz 2**, wenn man sortiert (dann 5). Deshalb steht in e
 Aufgabenstellung dabei, was gemeint ist. Und was liefert die Methode bei `{7, 7, 7}`, wo es gar keinen
 zweiten Wert gibt?
 
-### 3. Selbsttest
+### 4. Selbsttest
 
 Übersetzt und ausgeführt mit Java 25.
 
@@ -124,7 +159,7 @@ zweiten Wert gibt?
 
 ## Noch nicht hier
 
-Die Lösungen zu `mittelwert`, `anzahlGerade`, zum Histogramm und zu Teil C Frage 1 und 2 folgen, wenn
+Die Lösungen zu `mittelwert`, `anzahlGerade` und zum Histogramm folgen, wenn
 wir sie im Unterricht bearbeitet haben. Wer vorher weitermachen will: Die Hinweiskarten in Teil E von
 [`woche-1-aufgaben.md`](woche-1-aufgaben.md) helfen.
 
