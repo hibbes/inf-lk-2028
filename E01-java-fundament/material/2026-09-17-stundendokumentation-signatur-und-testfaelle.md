@@ -238,8 +238,8 @@ stehen **noch nicht** in dieser Datei. Beides machen wir am **Dienstag, 22.09., 
 Unterricht**; danach werden die Lösungen hier nachgetragen.
 
 **Nachtrag 22.09.:** Bis zum Feueralarm kamen wir bis zum zweitgrößten Element. Die Lösungen zu
-`maximum`, `zweitgroesstes` und Teil C Frage 3 stehen in der
-[Stundendokumentation vom 22.09.](2026-09-22-stundendokumentation-maximum-und-zweitgroesstes.md).
+`maximum`, `zweitgroesstes` und Teil C Frage 3 stehen in der Stundendokumentation vom
+[22. September](2026-09-22-stundendokumentation-maximum-und-zweitgroesstes.md).
 
 Wer selbst weiterprobieren will: Die **Hinweiskarten in Teil E** von
 [`woche-1-aufgaben.md`](woche-1-aufgaben.md) helfen, wenn es klemmt. Und prüf deine Methoden mit
