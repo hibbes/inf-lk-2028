@@ -534,9 +534,9 @@ Einheit nicht am Wetter hängt.
 | KW | Montag | Std | Einheit | Inhalt |
 |---|---|---|---|---|
 | 38 | 14.09.2026 | 6 | E1 | Kursstart, Diagnose in der Schmiede, Methoden mit Parametern und Rückgabe, Testfälle |
-| 39 | 21.09. | 4 | E1 | Datentypen, Wertebereiche, Casts, Strings |
-| 40 | 28.09. | 6 | E1 | Arrays und Array-Algorithmen, erste Codeanalysen |
-| 41 | 05.10. | 4 | E1 | Fehlerarten, Debugger, Struktogramm lesen, Javadoc; Abschluss E1 |
+| 39 | 21.09. | 4 | E1 | Array-Algorithmen von Hand, Zahlenanalyse (Feueralarm am Di, Do 24.09. ausgefallen) |
+| 40 | 28.09. | 6 | E1 | Datentypen, Wertebereiche, Casts; Strings; Codeanalyse an Arrays im Abiturstil |
+| 41 | 05.10. | 4 | E1 | Fehlerarten, Debugger, Struktogramm lesen, Javadoc; Do Abschluss E1 im Stil von K1 |
 | 42 | 12.10. | 6 | E2 | Klassen, Objekte, Konstruktoren, Kapselung; Spiel-Framework kennenlernen; Do Wiederholung E1 für K1 |
 | 43 | 19.10. | 4 | E2 | **K1 Di 20.10.**; Do Referenzen, null, static |
 | 44 | 26.10. | 0 | | Herbstferien |
