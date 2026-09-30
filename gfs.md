@@ -36,9 +36,8 @@ Klausurwochen fallen. Wer früh wählt, hat mehr Auswahl beim Termin.
 ## Anforderungen in Informatik
 
 Für Informatik gibt es keine eigenen GFS-Kriterien der Fachschaft. Verbindlich sind die
-schulweiten Regeln (Versicherung, Bewertungsbogen) und die AGVO. Die Angaben mit \* sind ein
-**Mein Vorschlag**, angelehnt an die Kriterien der Fachschaft Deutsch; die
-genaue Absprache trefft ihr gemeinsam.
+schulweiten Regeln (Versicherung, Bewertungsbogen) und die AGVO. Die Angaben mit \* sind **mein Vorschlag**, bis die Fachschaft Informatik eigene Regeln beschließt; die
+genaue Absprache treffen wir gemeinsam.
 
 | Was | Umfang | Wann | Worauf es ankommt |
 |:----------------------|:----------------|:-------------|:----------------------------------------------|
@@ -128,5 +127,4 @@ sind für eine GFS in J1.2 oder J2.1 gut geeignet.
 
 Quellen dieses Blattes: Verordnung über die Jahrgangsstufen sowie die Abiturprüfung an Gymnasien der
 Normalform (AGVO) § 7 Abs. 3; Beschluss der Gesamtlehrerkonferenz vom 16.11.2018 (Versicherung);
-Schiller-Bewertungsbogen GFS; als Vorlage für Umfang und Fristen die GFS-Kriterien der Fachkonferenz
-Deutsch vom 16.06.2016 (dort: in der Kursstufe bevorzugt problemorientierte Themen). Stand 27.09.2026.
+Schiller-Bewertungsbogen GFS. Stand 30.09.2026.
