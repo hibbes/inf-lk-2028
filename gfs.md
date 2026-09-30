@@ -1,6 +1,6 @@
 # GFS im Leistungsfach Informatik · J1
 
-Kursstufe 2026/27 bis 2027/28 · Abitur 2028 · Herr Czernohous · Anforderungen und Themenvorschläge
+Kursstufe 2026/27 bis 2027/28 · Abitur 2028 · Anforderungen und Themenvorschläge
 
 ## In der Kursstufe gelten andere Regeln
 
@@ -20,7 +20,7 @@ Frist: Wahl deiner drei GFS-Fächer bis Freitag, 23.10.2026
 Die AGVO verlangt die Wahl **spätestens sechs Wochen nach Beginn des Unterrichts** im ersten
 Schulhalbjahr. Der Unterricht hat am 14.09.2026 begonnen; sechs Wochen später ist Montag,
 26.10.2026, der erste Tag der Herbstferien. **Letzter Schultag für deine Wahl ist also Freitag,
-23.10.2026.** Wer Informatik wählen will, sagt es Herrn Czernohous vorher und bringt am besten
+23.10.2026.** Wer Informatik wählen will, sagt es mir vorher und bringt am besten
 schon eine Themenidee mit. Falls die Oberstufenberatung einen früheren Termin nennt, gilt dieser.
 
 Darf ich mehrere GFS im selben Fach halten?
@@ -37,14 +37,14 @@ Klausurwochen fallen. Wer früh wählt, hat mehr Auswahl beim Termin.
 
 Für Informatik gibt es keine eigenen GFS-Kriterien der Fachschaft. Verbindlich sind die
 schulweiten Regeln (Versicherung, Bewertungsbogen) und die AGVO. Die Angaben mit \* sind ein
-**Vorschlag von Herrn Czernohous**, angelehnt an die Kriterien der Fachschaft Deutsch; die
+**Mein Vorschlag**, angelehnt an die Kriterien der Fachschaft Deutsch; die
 genaue Absprache trefft ihr gemeinsam.
 
 | Was | Umfang | Wann | Worauf es ankommt |
 |:----------------------|:----------------|:-------------|:----------------------------------------------|
 | Thema als Problemfrage | eine Leitfrage | bei der Absprache | In der Kursstufe werden problemorientierte Themen bevorzugt: du untersuchst, vergleichst, bewertest. |
 | Präsentation mit Live-Demo | etwa 15 Minuten\* | am Termin | eigenes Programm, eigene Messung oder eigene Simulation, **live vorgeführt**; Screenshots als Rückfallebene |
-| Kolloquium | nach Bedarf | direkt danach | Fragen von Herrn Czernohous und dem Kurs, auch zu deinem Code |
+| Kolloquium | nach Bedarf | direkt danach | Fragen von mir und dem Kurs, auch zu deinem Code |
 | Ergebniszusammenfassung | eine Seite\* | einen Tag vorher\* | Kernaussagen, Leitfrage und Ergebnis; nützlich für die Abiturvorbereitung des Kurses |
 | Quellen und Code | vollständig | mit der Zusammenfassung\* | Quellenverzeichnis gesondert auf Papier, **nicht auf den Folien**; eigener Code als Repository oder Datei; übernommener Code und KI-Hilfen werden gekennzeichnet |
 | Versicherung | unterschrieben | am Termin | Wortlaut siehe Kasten |
@@ -57,8 +57,8 @@ Datum, Unterschrift]{.versicherung}
 
 ## Bewertung
 
-Wie die Teile gewichtet werden und wie die GFS in die Halbjahresnote eingeht, sagt dir Herr
-Czernohous bei der Absprache. Der Schiller-Bewertungsbogen fragt, ergänzt um die Demo:
+Wie die Teile gewichtet werden und wie die GFS in die Halbjahresnote eingeht, sage ich dir
+bei der Absprache. Der Schiller-Bewertungsbogen fragt, ergänzt um die Demo:
 
 - Ist der Inhalt vollständig und informativ? Ist die GFS gut gegliedert und abgerundet?
 - Sprichst du klar, deutlich und frei, und beziehst du den Kurs ein?
@@ -71,7 +71,7 @@ So findest du dein Thema
 
 1. **Such dir ein System aus deinem Alltag,** bei dem du dich fragst: Wie macht der Computer das?
 2. **Mach eine Frage daraus,** die du mit einem eigenen Programm, einer Messung oder einem Vergleich beantworten kannst.
-3. **Sprich es mit Herrn Czernohous ab,** spätestens bis 23.10.2026.
+3. **Sprich es mit mir ab,** spätestens bis 23.10.2026.
 
 Häufige Fehler
 
@@ -86,7 +86,7 @@ Häufige Fehler
 ## Themenvorschläge
 
 Alle Themen sind Vorschläge. Die Leitfrage zeigt, was untersucht wird; du kannst sie
-gemeinsam mit Herrn Czernohous verändern oder zuspitzen. Themen aus späteren Einheiten
+gemeinsam mit mir verändern oder zuspitzen. Themen aus späteren Einheiten
 sind für eine GFS in J1.2 oder J2.1 gut geeignet.
 
 ### Nah am Unterricht
