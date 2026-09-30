@@ -76,7 +76,6 @@ So findest du dein Thema
 Häufige Fehler
 
 - Thema ohne Frage: Wikipedia nacherzählen.
-- Die Demo läuft nur auf dem eigenen Laptop, oder gar nicht.
 - Code, Bilder oder Texte ohne Quelle, KI-Hilfe nicht angegeben.
 - Eine Quellenfolie am Schluss: Sie kostet Zeit und stört den Aufbau. Quellen gehören auf ein eigenes Blatt.
 - Deutlich zu lang.
