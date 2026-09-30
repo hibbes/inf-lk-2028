@@ -5,6 +5,8 @@ und Jahrgangsstufe 2 im Schuljahr 2027/28. Hier steht, was wir wann gemacht habe
 Aufgaben es gab und wo man üben kann. Das Repo ist öffentlich, damit ihr es auch nach dem Abitur
 noch habt.
 
+**GFS in der Kursstufe:** Anforderungen, Fristen (Fächerwahl bis **Fr 23.10.2026**) und Themenvorschläge stehen in [gfs.md](gfs.md).
+
 ## Die drei Orte des Kurses
 
 | Ort | Wofür | Zugang |
