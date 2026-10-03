@@ -2,7 +2,7 @@
 
 **Informatik LK J1 | Stand 03.10.2026**
 
-Die Klausur prüft **E1 Java-Fundament komplett**, dazu das, was wir am Di 13.10. zu Klassen machen: eine gegebene Klasse lesen und ein Objekt erzeugen. Die Aufgaben sind wie im Abitur Teil A gebaut: Code analysieren, eine Methode implementieren, Begriffe erklären. Du schreibst **von Hand**, ohne BlueJ.
+Die Klausur prüft **E1 Java-Fundament komplett**, nichts darüber hinaus. Die Aufgaben sind wie im Abitur Teil A gebaut: Code analysieren, eine Methode implementieren, Begriffe erklären. Du schreibst **von Hand**, ohne BlueJ.
 
 **So gehst du vor:** Hake ab, was du sicher kannst. Bei jedem offenen Punkt steht, wo du nachliest (Stundendokumentationen im Ordner `material/`) und wo du übst (Schmiede, Unit 49 „E1 Java-Fundament“). Zu jedem Block gibt es eine kleine Probieraufgabe. Die Lösungen stehen am Ende, schau sie erst nach deinem eigenen Versuch an.
 
@@ -90,12 +90,7 @@ public static int quersumme(int n) {
 - ☐ Ich schreibe einen **Javadoc-Kommentar** mit `@param` und `@return`.
 - ☐ Ich nutze den Debugger in BlueJ (Haltepunkt, Schritt für Schritt). In der Klausur zählt davon das Prinzip.
 
-## 8. Erste Klassen (kommt am Di 13.10.)
-
-- ☐ Ich lese eine gegebene Klasse: Attribute, Konstruktor, Methoden.
-- ☐ Ich erzeuge ein Objekt mit `new` und rufe Methoden daran auf.
-
-**Nicht in Klausur 1:** Rekursion, Vererbung und UML. Die kommen in Klausur 2.
+**Nicht in Klausur 1:** Klassen und Objekte, Rekursion, Vererbung und UML. Damit fangen wir nach der Klausur an.
 
 ## So übe ich
 
@@ -103,7 +98,7 @@ public static int quersumme(int n) {
 - **Von Hand:** Schreib Code erst auf Papier, dann tipp ihn in BlueJ ab und prüfe. In der Klausur gibt es keinen Compiler, der dir hilft.
 - **Stundendokumentationen:** erst selbst lösen, dann den Erwartungshorizont lesen.
 - **Do 08.10.:** gemischte Aufgaben im Stil der Klausur mit Besprechung.
-- **Di 13.10.:** erste Klassen und deine offenen Fragen. Das ist die letzte Stunde vor der Klausur, am 14.10. (Wandertag) und 15.10. (Fortbildungstag) fällt der Kurs aus.
+- **Di 13.10.:** Wiederholung mit deinen offenen Fragen. Das ist die letzte Stunde vor der Klausur, am 14.10. (Wandertag) und 15.10. (Fortbildungstag) fällt der Kurs aus.
 - **Fragen** sammeln und mitbringen, je früher, desto besser.
 
 <div style="page-break-after: always;"></div>
