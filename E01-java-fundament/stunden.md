@@ -17,6 +17,6 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 | 06.10.2026 | Di | 1./2. Stunde | Fehlerarten (Compiler, Laufzeit, semantisch), Debugger in BlueJ, Struktogramm lesen, Javadoc-Kommentare |  |  |
 | 08.10.2026 | Do | 8./9. Stunde | Abschluss E1: gemischte Aufgaben im Stil von Klausur 1, Besprechung, Selbstcheck |  |  |
 
-Zeilen: 10 Doppelstunden = 20 Einzelstunden, davon eine ausgefallen (24.09.). Klausur 1 am Di 20.10. umfasst E1 komplett; Wiederholung am Do 15.10. (siehe E2).
+Zeilen: 10 Doppelstunden = 20 Einzelstunden, davon eine ausgefallen (24.09.). Klausur 1 am Di 20.10. umfasst E1 komplett. Am 14.10. (Wandertag) und 15.10. (Fortbildungstag) fällt der Kurs aus, wiederholt wird am 08.10. und 13.10.
 
 **Klausur 1 vorbereiten:** [Wiederholliste mit Probieraufgaben und Lösungen](material/klausur-1-wiederholliste.md)

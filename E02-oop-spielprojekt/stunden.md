@@ -6,9 +6,9 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 
 | Datum | Tag | Stunde | Thema (geplant) | Was wir gemacht haben | Hausaufgabe |
 |---|---|---|---|---|---|
-| 13.10.2026 | Di | 1./2. Stunde | Klassen, Objekte, Konstruktoren, Kapselung; Spiel-Framework kennenlernen |  |  |
-| 14.10.2026 | Mi | 1./2. Stunde | Objekte erzeugen und benutzen; Spiel-Framework kennenlernen |  |  |
-| 15.10.2026 | Do | 8./9. Stunde | Wiederholung E1 für Klausur 1 |  |  |
+| 13.10.2026 | Di | 1./2. Stunde | Klassen lesen, Objekte erzeugen und benutzen (so weit Klausur 1 es braucht); offene Fragen zur Klausur |  |  |
+| 14.10.2026 | Mi | 1./2. Stunde | entfällt (Wandertag) |  |  |
+| 15.10.2026 | Do | 8./9. Stunde | entfällt (Fortbildungstag); die Wiederholung liegt am 08.10. und 13.10. |  |  |
 | 20.10.2026 | Di | 1./2. Stunde | **Klausur 1** (E1 komplett) |  |  |
 | 22.10.2026 | Do | 8./9. Stunde | Referenzen, null, static |  |  |
 | 03.11.2026 | Di | 1./2. Stunde | Rückgabe K1; Vererbung, UML-Klassendiagramm |  |  |
