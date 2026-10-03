@@ -2,7 +2,7 @@
 
 **Informatik LK J1 | Stand 03.10.2026**
 
-Die Klausur prüft **E1 Java-Fundament komplett**, nichts darüber hinaus. Die Aufgaben sind wie im Abitur Teil A gebaut: Code analysieren, eine Methode implementieren, Begriffe erklären. Du schreibst **von Hand**, ohne BlueJ.
+Die Klausur prüft **E1 Java-Fundament komplett**. Ob der Einstieg in Klassen und Objekte vom Di 06.10. dazukommt, sage ich euch am Mi 07.10. Die Aufgaben sind wie im Abitur Teil A gebaut: Code analysieren, eine Methode implementieren, Begriffe erklären. Du schreibst **von Hand**, ohne BlueJ.
 
 **So gehst du vor:** Hake ab, was du sicher kannst. Bei jedem offenen Punkt steht, wo du nachliest (Stundendokumentationen im Ordner `material/`) und wo du übst (Schmiede, Unit 49 „E1 Java-Fundament“). Zu jedem Block gibt es eine kleine Probieraufgabe. Die Lösungen stehen am Ende, schau sie erst nach deinem eigenen Versuch an.
 
@@ -82,7 +82,7 @@ public static int quersumme(int n) {
 
 **Nachlesen:** Stundendokumentation 01.10. (Aufgaben 1 und 2 mit Erwartungshorizont). **Üben:** Schmiede L6.
 
-## 7. Fehler finden (kommt am Di 06.10. dazu)
+## 7. Fehler finden (kommt am Do 08.10. dazu)
 
 - ☐ Ich unterscheide **Compilerfehler**, **Laufzeitfehler** und **logische (semantische) Fehler** und nenne je ein Beispiel.
 - ☐ Ich belege einen Fehler mit einem Testfall, der ihn zeigt, und korrigiere ihn (wie `anzahlMaximum` am 01.10.).
@@ -90,14 +90,14 @@ public static int quersumme(int n) {
 - ☐ Ich schreibe einen **Javadoc-Kommentar** mit `@param` und `@return`.
 - ☐ Ich nutze den Debugger in BlueJ (Haltepunkt, Schritt für Schritt). In der Klausur zählt davon das Prinzip.
 
-**Nicht in Klausur 1:** Klassen und Objekte, Rekursion, Vererbung und UML. Damit fangen wir nach der Klausur an.
+**Nicht in Klausur 1:** Rekursion, Vererbung und UML.
 
 ## So übe ich
 
 - **Schmiede:** Unit 49, Lektionen 2 bis 6 fertig machen, dann das Training. Der Code-Runner sagt dir sofort, ob dein Code die Tests besteht.
 - **Von Hand:** Schreib Code erst auf Papier, dann tipp ihn in BlueJ ab und prüfe. In der Klausur gibt es keinen Compiler, der dir hilft.
 - **Stundendokumentationen:** erst selbst lösen, dann den Erwartungshorizont lesen.
-- **Do 08.10.:** gemischte Aufgaben im Stil der Klausur mit Besprechung.
+- **Do 08.10.:** Fehlerarten, Struktogramm und Javadoc (Block 7).
 - **Di 13.10.:** Wiederholung mit deinen offenen Fragen. Das ist die letzte Stunde vor der Klausur, am 14.10. (Wandertag) und 15.10. (Fortbildungstag) fällt der Kurs aus.
 - **Fragen** sammeln und mitbringen, je früher, desto besser.
 
