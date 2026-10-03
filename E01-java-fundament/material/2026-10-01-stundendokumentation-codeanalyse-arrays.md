@@ -221,9 +221,10 @@ Die Frage für Dienstag bleibt stehen: Welchen der drei Fehler hätte der Compil
 
 ## Was als Nächstes drankommt
 
-Dienstag, 06.10.: Fehlerarten (Compiler, Laufzeit, semantisch) mit Aufgabe 4 als Einstieg, der
-Debugger in BlueJ, Struktogramme lesen, Javadoc-Kommentare. Donnerstag, 08.10.: Abschluss von E1
-mit gemischten Aufgaben im Stil der Klausur.
+Dienstag, 06.10.: Einstieg in die Objektorientierung (eine Klasse lesen, Objekte erzeugen,
+Methoden daran aufrufen). Donnerstag, 08.10.: Abschluss von E1 mit Fehlerarten (Compiler,
+Laufzeit, semantisch) und Aufgabe 4 als Einstieg, dem Debugger in BlueJ, Struktogrammen und
+Javadoc-Kommentaren. Dienstag, 13.10.: Wiederholungsstunde vor der Klausur.
 
 **Klausur 1 am Dienstag, 20.10.** umfasst nur E1. Aufgaben wie heute (Wertetabelle, beschreiben,
 erläutern, Fehler finden) sind genau der Typ, der dort drankommt.
