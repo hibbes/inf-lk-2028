@@ -85,7 +85,8 @@ Häufige Fehler
 
 Alle Themen sind Vorschläge. Die Leitfrage zeigt, was untersucht wird; du kannst sie
 gemeinsam mit mir verändern oder zuspitzen. Themen aus späteren Einheiten
-sind für eine GFS in J1.2 oder J2.1 gut geeignet.
+sind für eine GFS in J1.2 oder J2.1 gut geeignet. Bereits vergebene Themen
+sind durchgestrichen und mit *(vergeben)* markiert.
 
 ### Nah am Unterricht
 
@@ -96,7 +97,7 @@ sind für eine GFS in J1.2 oder J2.1 gut geeignet.
 | Huffman und ZIP | Wie wird eine Datei kleiner, ohne dass Information verloren geht? |
 | JPEG | Was wirft ein JPEG weg, und warum sieht man es kaum? |
 | Rekursion und Fraktale | Wie beschreibt ein Programm von zehn Zeilen eine unendlich feine Schneeflocke? |
-| Navigation | Wie findet ein Navi in Sekunden den schnellsten Weg? Dijkstra gegen A\* |
+| ~~Navigation~~ *(vergeben)* | ~~Wie findet ein Navi in Sekunden den schnellsten Weg? Dijkstra gegen A\*~~ |
 | Hashing | Warum findet eine HashMap einen Eintrag fast sofort, egal wie groß sie ist? |
 | Gleitkommazahlen | Warum ist in Java 0.1 + 0.2 nicht 0.3, und wann wird das gefährlich? |
 | Unicode | Warum wird aus „ä“ manchmal „Ã¤“? |
