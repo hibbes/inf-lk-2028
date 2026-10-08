@@ -99,7 +99,7 @@ public static int quersumme(int n) {
 - ☐ Ich erkenne und schreibe einen **Konstruktor**: gleicher Name wie die Klasse, kein Rückgabetyp (auch kein `void`), setzt den Startzustand.
 - ☐ Ich schreibe eine kleine eigene Klasse mit Attribut, Konstruktor und Methode (wie `Zaehler` oder `Konto`).
 
-**Nachlesen:** Schmiede Unit 56 „E2 Objektorientierung", Lektion „Klassen und Objekte benutzen" (Beispielklasse `Konto`); Stundendokumentation 06.10. folgt. **Üben:** Schmiede Unit 56, L1 und das Training L2.
+**Nachlesen:** Schmiede Unit 56 „E2 Objektorientierung", Lektion „Klassen und Objekte benutzen" (Beispielklasse `Konto`); [Stundendokumentation 06.10.](../../E02-oop-spielprojekt/material/2026-10-06-stundendokumentation-klassen-und-objekte.md). **Üben:** Schmiede Unit 56, L1 und das Training L2.
 
 **Probier dich (8):** Schreibe eine Klasse `Zaehler` mit einem Attribut `stand` (Start 0), einer Methode `klick()`, die `stand` um 1 erhöht, und einer Methode `anzahl()`, die den Stand zurückgibt. Erzeuge dann ein Objekt, klicke dreimal und gib `anzahl()` aus.
 
