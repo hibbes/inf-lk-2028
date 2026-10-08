@@ -1,8 +1,8 @@
 # Klausur 1 am Di 20.10.2026: Wiederholliste
 
-**Informatik LK J1 | Stand 03.10.2026**
+**Informatik LK J1 | Stand 08.10.2026**
 
-Die Klausur prüft **E1 Java-Fundament komplett**. Ob der Einstieg in Klassen und Objekte vom Di 06.10. dazukommt, sage ich euch am Mi 07.10. Die Aufgaben sind wie im Abitur Teil A gebaut: Code analysieren, eine Methode implementieren, Begriffe erklären. Du schreibst **von Hand**, ohne BlueJ.
+Die Klausur prüft **E1 Java-Fundament komplett** und dazu den **Einstieg in Klassen und Objekte** vom Di 06.10. (Block 8). Die Aufgaben sind wie im Abitur Teil A gebaut: Code analysieren, eine Methode implementieren, Begriffe erklären. Du schreibst **von Hand**, ohne BlueJ.
 
 **So gehst du vor:** Hake ab, was du sicher kannst. Bei jedem offenen Punkt steht, wo du nachliest (Stundendokumentationen im Ordner `material/`) und wo du übst (Schmiede, Unit 49 „E1 Java-Fundament“). Zu jedem Block gibt es eine kleine Probieraufgabe. Die Lösungen stehen am Ende, schau sie erst nach deinem eigenen Versuch an.
 
@@ -90,11 +90,25 @@ public static int quersumme(int n) {
 - ☐ Ich schreibe einen **Javadoc-Kommentar** mit `@param` und `@return`.
 - ☐ Ich nutze den Debugger in BlueJ (Haltepunkt, Schritt für Schritt). In der Klausur zählt davon das Prinzip.
 
-**Nicht in Klausur 1:** Rekursion, Vererbung und UML.
+## 8. Klassen und Objekte
+
+- ☐ Ich erkläre den Unterschied zwischen einer **Klasse** (dem Bauplan) und einem **Objekt** (einem Exemplar), zum Beispiel an der Klasse `Konto`.
+- ☐ Ich erzeuge ein Objekt mit `new` und einer Referenzvariablen (`Konto k = new Konto("Pia", 100);`) und weiß, dass jedes Objekt seine eigenen Attributwerte hat.
+- ☐ Ich rufe Methoden auf einem Objekt mit der Punktnotation auf (`k.einzahlen(50);`) und nutze den Rückgabewert.
+- ☐ Ich erkläre, dass ein **Attribut** seinen Wert über Methodenaufrufe hinweg behält (der Zustand des Objekts), eine lokale Variable oder ein Parameter dagegen nur während des Aufrufs lebt.
+- ☐ Ich erkenne und schreibe einen **Konstruktor**: gleicher Name wie die Klasse, kein Rückgabetyp (auch kein `void`), setzt den Startzustand.
+- ☐ Ich schreibe eine kleine eigene Klasse mit Attribut, Konstruktor und Methode (wie `Zaehler` oder `Konto`).
+
+**Nachlesen:** Schmiede Unit 56 „E2 Objektorientierung", Lektion „Klassen und Objekte benutzen" (Beispielklasse `Konto`); Stundendokumentation 06.10. folgt. **Üben:** Schmiede Unit 56, L1 und das Training L2.
+
+**Probier dich (8):** Schreibe eine Klasse `Zaehler` mit einem Attribut `stand` (Start 0), einer Methode `klick()`, die `stand` um 1 erhöht, und einer Methode `anzahl()`, die den Stand zurückgibt. Erzeuge dann ein Objekt, klicke dreimal und gib `anzahl()` aus.
+
+**Nicht in Klausur 1:** Rekursion, Vererbung und UML. Bei Klassen und Objekten reicht das Niveau „benutzen und eine einfache Klasse selbst schreiben" (Block 8).
 
 ## So übe ich
 
 - **Schmiede:** Unit 49, Lektionen 2 bis 6 fertig machen, dann das Training. Der Code-Runner sagt dir sofort, ob dein Code die Tests besteht.
+- **Objekte:** Schmiede Unit 56 „E2 Objektorientierung", Lektion „Klassen und Objekte benutzen" und das Training dazu.
 - **Von Hand:** Schreib Code erst auf Papier, dann tipp ihn in BlueJ ab und prüfe. In der Klausur gibt es keinen Compiler, der dir hilft.
 - **Stundendokumentationen:** erst selbst lösen, dann den Erwartungshorizont lesen.
 - **Do 08.10.:** Fehlerarten, Struktogramm und Javadoc (Block 7).
@@ -154,3 +168,25 @@ public static int lineareSuche(int[] a, int x) {
     return -1;
 }
 ```
+
+**(8) Zaehler**
+
+```java
+public class Zaehler {
+    private int stand;
+
+    public Zaehler() {
+        stand = 0;
+    }
+
+    public void klick() {
+        stand = stand + 1;
+    }
+
+    public int anzahl() {
+        return stand;
+    }
+}
+```
+
+Benutzung: `Zaehler z = new Zaehler(); z.klick(); z.klick(); z.klick(); System.out.println(z.anzahl());` gibt `3` aus. Der Konstruktor `Zaehler()` hat keinen Rückgabetyp, und `stand` behält seinen Wert zwischen den `klick()`-Aufrufen.
