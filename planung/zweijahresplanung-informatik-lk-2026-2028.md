@@ -252,7 +252,7 @@ Kompositum aus Bauteilen, Messpunkte als `ArrayList` mit CSV-Export (der Übungs
 UML vor dem Code. Ergebnis ist eine vorhergesagte Gipfelhöhe für den Start im Frühjahr, geprüft
 gegen Höhen- und Schubsensor an Bord. Projektauftrag: `E02-oop-spielprojekt/material/projekt-flugsimulator.md`.
 
-**Klausur 1 (Di 20.10.2026, KW43, zentraler Klausurenplan J1.1 vom 24.09.2026):** E1 komplett; ob der Einstieg in Klassen und Objekte vom Di 06.10. dazukommt, wird am Mi 07.10. entschieden (Stand 03.10.2026: Wandertag 14.10. und Fortbildungstag 15.10. fallen aus, Di 13.10. ist Wiederholungsstunde). Pflichtteil-A-Stil (Codeanalyse, Methode implementieren, Begriffe). Die Klausur liegt fünf Wochen früher als ursprünglich geplant und vor der Vererbung; die kleine B1-Aufgabe wandert in Klausur 2. Rückgabe Di 03.11.
+**Klausur 1 (Di 20.10.2026, KW43, zentraler Klausurenplan J1.1 vom 24.09.2026):** E1 komplett; ob der Einstieg in Klassen und Objekte vom Di 06.10. dazukommt, wird am Mi 07.10. entschieden (entschieden 07.10.: mit Block 8; Stand 10.10.2026: Wandertag 14.10. fällt aus, Di 13.10. Wiederholung an Stationen, Do 15.10. Probeklausur, die Stunde findet trotz Fortbildungstag statt). Pflichtteil-A-Stil (Codeanalyse, Methode implementieren, Begriffe). Die Klausur liegt fünf Wochen früher als ursprünglich geplant und vor der Vererbung; die kleine B1-Aufgabe wandert in Klausur 2. Rückgabe Di 03.11.
 
 **Hausübliches Material:** `Practices2425` (Fahrzeug/Auto/Fahrrad/Zug, Kriechbar/Rennschnecken,
 Medium/Buch/DVD/Zeitschrift, Eintrag/Verzeichnis, BauernhofVerwaltung, OutputQuiz2), `Uebung_HundeObjekt`,
@@ -537,7 +537,7 @@ Einheit nicht am Wetter hängt.
 | 39 | 21.09. | 4 | E1 | Array-Algorithmen von Hand, Zahlenanalyse (Feueralarm am Di, Do 24.09. ausgefallen) |
 | 40 | 28.09. | 6 | E1 | Datentypen, Wertebereiche, Casts; Strings; Codeanalyse an Arrays im Abiturstil |
 | 41 | 05.10. | 4 | E1/E2 | Di Einstieg OOP: Klasse lesen, Objekt mit new erzeugen, Methoden aufrufen; Do Rest E1: Fehlerarten, Debugger, Struktogramm lesen, Javadoc |
-| 42 | 12.10. | 2 | E1 | Di Wiederholungsstunde für K1; Mi Wandertag und Do Fortbildungstag, Kurs fällt aus |
+| 42 | 12.10. | 4 | E1 | Di Wiederholung an Stationen für K1; Mi Wandertag, Kurs fällt aus; Do Probeklausur mit Selbstkorrektur (trotz Fortbildungstag) |
 | 43 | 19.10. | 4 | E2 | **K1 Di 20.10.**; Do Referenzen, null, static |
 | 44 | 26.10. | 0 | | Herbstferien |
 | 45 | 02.11. | 4 | E2 | Rückgabe K1; Vererbung, UML-Klassendiagramm |

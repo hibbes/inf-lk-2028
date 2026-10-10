@@ -1,6 +1,6 @@
 # Klausur 1 am Di 20.10.2026: Wiederholliste
 
-**Informatik LK J1 | Stand 08.10.2026**
+**Informatik LK J1 | Stand 10.10.2026**
 
 Die Klausur prüft **E1 Java-Fundament komplett** und dazu den **Einstieg in Klassen und Objekte** vom Di 06.10. (Block 8). Die Aufgaben sind wie im Abitur Teil A gebaut: Code analysieren, eine Methode implementieren, Begriffe erklären. Du schreibst **von Hand**, ohne BlueJ.
 
@@ -112,7 +112,8 @@ public static int quersumme(int n) {
 - **Von Hand:** Schreib Code erst auf Papier, dann tipp ihn in BlueJ ab und prüfe. In der Klausur gibt es keinen Compiler, der dir hilft.
 - **Stundendokumentationen:** erst selbst lösen, dann den Erwartungshorizont lesen.
 - **Do 08.10.:** Fehlerarten, Struktogramm und Javadoc (Block 7).
-- **Di 13.10.:** Wiederholung mit deinen offenen Fragen. Das ist die letzte Stunde vor der Klausur, am 14.10. (Wandertag) und 15.10. (Fortbildungstag) fällt der Kurs aus.
+- **Di 13.10.:** Wiederholung an Stationen mit deinen offenen Fragen.
+- **Do 15.10., 8./9. Stunde:** Probeklausur (45 Minuten, von Hand) mit Selbstkorrektur. Die Stunde findet trotz Fortbildungstag statt. Am 14.10. (Wandertag) fällt der Kurs aus.
 - **Fragen** sammeln und mitbringen, je früher, desto besser.
 
 <div style="page-break-after: always;"></div>
