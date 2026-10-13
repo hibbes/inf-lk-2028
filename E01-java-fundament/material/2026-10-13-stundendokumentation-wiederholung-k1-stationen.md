@@ -40,7 +40,7 @@ Alle Ergebnisse sind in Java nachgeprüft. Welche Station zu welchem Block gehö
 | 4 | Klassen und Objekte | 8 |
 | 5 | Fehler finden, Javadoc | 7 |
 
-## Station 1
+### Station 1
 
 a) `raetsel(new int[] {3, 5, 2, 8, 9})` liefert **3**.
 
