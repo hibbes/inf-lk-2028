@@ -542,11 +542,11 @@ Einheit nicht am Wetter hängt.
 | 42 | 12.10. | 4 | E1 | Di Wiederholung an Stationen für K1; Mi Wandertag, Kurs fällt aus; Do Probeklausur mit Selbstkorrektur (trotz Fortbildungstag) |
 | 43 | 19.10. | 4 | E2 | **K1 Di 20.10.**; Do Referenzen, null, static |
 | 44 | 26.10. | 0 | | Herbstferien |
-| 45 | 02.11. | 4 | E2 | Rückgabe K1; Vererbung, UML-Klassendiagramm |
-| 46 | 09.11. | 6 | E2 | Polymorphie, abstrakte Klassen, Interfaces, Casts; Wiederholung |
-| 47 | 16.11. | 4 | E2 | Di erste Spielobjekte, Projektarbeit; Mi Studieninformationstag; Do Projektarbeit |
-| 48 | 23.11. | 6 | E2 | Collections, foreach, Generics, Lambda; Composite (rekursive Assoziation) |
-| 49 | 30.11. | 4 | E2 | Abnahme und Präsentation Spielprojekt |
+| 45 | 02.11. | 4 | E2 | Rückgabe K1; Vertex, Methoden, geometrische Figuren (Buch 3.1, 3.2.1 bis 3.2.3) |
+| 46 | 09.11. | 6 | E2 | Unterklassen (Buch 3.2.4); Do 12.11. entfällt |
+| 47 | 16.11. | 4 | E2 | Fenster, Paintable, Bilder, Listen (Buch 3.3, 3.4, Kapitel 4); Mi Studieninformationstag |
+| 48 | 23.11. | 6 | E2 | Bewegung, Ereignisse, automatische Bewegung (Buch 5.1 bis 5.4) |
+| 49 | 30.11. | 4 | E2 | Maus und Tastatur, einfaches Spiel, Abschluss (Buch 5.5, 5.6) |
 | 50 | 07.12. | 6 | E3 | Di/Mi Zweierkomplement, Rechnen, Overflow, Festkomma, Hexadezimal; Do Wiederholung E2 für K2 |
 | 51 | 14.12. | 4 | E3 | **K2 Di 15.12.**; Do Textcodierung, Codemerkmale |
 | 52 | 21.12. | 2 | E3 | Di 22.12. Weihnachtsprogrammieren |
