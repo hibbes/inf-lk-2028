@@ -11,7 +11,7 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 | 15.10.2026 | Do | 8./9. Stunde | Probeklausur zu Klausur 1 (45 Minuten) mit Selbstkorrektur, findet trotz Fortbildungstag statt |  |  |
 | 20.10.2026 | Di | 1./2. Stunde | **Klausur 1** (E1 und der Einstieg in Klassen und Objekte vom 06.10.) |  |  |
 | 22.10.2026 | Do | 8./9. Stunde | Kapselung (`private`, Methoden mit Prüfung, Getter und Setter), Referenzen und Speicherbild, `null` und NullPointerException, `static` (Anschluss an den Einstieg vom 06.10.) |  |  |
-| 03.11.2026 | Di | 1./2. Stunde | Rückgabe K1; Vererbung (`extends`, `super`), UML-Klassendiagramm lesen |  |  |
+| 03.11.2026 | Di | 1./2. Stunde | Rückgabe K1; Start des Spiels nach „Java will nur spielen“: Klasse `Vertex` |  |  |
 | 04.11.2026 | Mi | 1./2. Stunde | Überschreiben, `protected`, `toString`; Vererbung und Assoziation, vom UML-Diagramm zum Code |  |  |
 | 05.11.2026 | Do | 8./9. Stunde | Spiel-Framework kennenlernen; Projektstart: Wahl Spiel oder Flugsimulator, Entwurf |  |  |
 | 10.11.2026 | Di | 1./2. Stunde | Polymorphie, sichere Casts |  |  |
