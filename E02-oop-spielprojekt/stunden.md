@@ -8,11 +8,11 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 
 | Datum | Tag | Stunde | Thema (geplant) | Was wir gemacht haben | Hausaufgabe |
 |---|---|---|---|---|---|
-| 13.10.2026 | Di | 1./2. Stunde | Wiederholungsstunde für Klausur 1: offene Fragen, Aufgaben im Klausurstil |  |  |
+| 13.10.2026 | Di | 1./2. Stunde | Wiederholungsstunde für Klausur 1: offene Fragen, Aufgaben im Klausurstil | Wie geplant, siehe Stundenliste E1. |  |
 | 14.10.2026 | Mi | 1./2. Stunde | entfällt (Wandertag) |  |  |
-| 15.10.2026 | Do | 8./9. Stunde | Probeklausur zu Klausur 1 (45 Minuten) mit Selbstkorrektur, findet trotz Fortbildungstag statt |  |  |
-| 20.10.2026 | Di | 1./2. Stunde | **Klausur 1** (E1 und der Einstieg in Klassen und Objekte vom 06.10.) |  |  |
-| 22.10.2026 | Do | 8./9. Stunde | Kapselung (`private`, Methoden mit Prüfung, Getter und Setter), Referenzen und Speicherbild, `null` und NullPointerException, `static` (Anschluss an den Einstieg vom 06.10.) |  |  |
+| 15.10.2026 | Do | 8./9. Stunde | Probeklausur zu Klausur 1 (45 Minuten) mit Selbstkorrektur, findet trotz Fortbildungstag statt | Wie geplant, siehe Stundenliste E1. |  |
+| 20.10.2026 | Di | 1./2. Stunde | **Klausur 1** (E1 und der Einstieg in Klassen und Objekte vom 06.10.) | Klausur 1 wie geplant. |  |
+| 22.10.2026 | Do | 8./9. Stunde | Kapselung (`private`, Methoden mit Prüfung, Getter und Setter), Referenzen und Speicherbild, `null` und NullPointerException, `static` (Anschluss an den Einstieg vom 06.10.) | Wie geplant. Kapselung am Konto, Referenzen und Speicherbild, `==` bei Objekten, `null` im Array, `static` am Kontozähler. [Stundendokumentation](material/2026-10-22-stundendokumentation-kapselung-referenzen.md) |  |
 | 03.11.2026 | Di | 1./2. Stunde | Rückgabe K1; Start des Spiels nach „Java will nur spielen“: Klasse `Vertex` |  |  |
 | 04.11.2026 | Mi | 1./2. Stunde | Vertex lernt rechnen und vergleichen: Methoden, `this`, Getter und Setter, `equals`, UML (Buch 3.1.4, 3.1.5) |  |  |
 | 05.11.2026 | Do | 8./9. Stunde | Geometrische Figuren: Felder, Assoziation, Konstruktoren überladen, Methoden (Buch 3.2.1 bis 3.2.3) |  |  |
