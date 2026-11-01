@@ -230,6 +230,8 @@ Codeanalysen.
 
 **Bildungsplan:** 3.3.2.1 (5) bis (18), (20); 3.3.6 (2) in Ansätzen (Bibliothek nutzen).
 
+**Änderung 01.11.2026:** E2 folgt ab Di 03.11. Kapitel für Kapitel dem Buch bis zum einfachen Spiel (Abschnitt 5.6), das Spiel entsteht im Unterricht. Die Projektphase entfällt, der Flugsimulator wird freiwillige Zusatzarbeit. UML läuft auf den Blättern mit, abstrakte Klassen kommen in der Abschlussstunde am 03.12., Composite und Lambda entfallen in E2. Die Termine stehen in `E02-oop-spielprojekt/stunden.md`.
+
 **Leitidee:** Das Spielprojekt nach Panitz („Java will nur spielen“, Framework-Repos
 `JavaWillNurSpielen`, `zock_reference`) ist das Rückgrat, wie beim Vorgängerkurs. Der Bildungsplan
 wird entlang des Spiels abgearbeitet: Objekte sind Spielfiguren, Vererbung ist die Figurenhierarchie,
