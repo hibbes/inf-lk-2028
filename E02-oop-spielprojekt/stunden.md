@@ -13,8 +13,8 @@ Planung: siehe `planung/zweijahresplanung-informatik-lk-2026-2028.md`. Übungen:
 | 15.10.2026 | Do | 8./9. Stunde | Probeklausur zu Klausur 1 (45 Minuten) mit Selbstkorrektur, findet trotz Fortbildungstag statt | Wie geplant, siehe Stundenliste E1. |  |
 | 20.10.2026 | Di | 1./2. Stunde | **Klausur 1** (E1 und der Einstieg in Klassen und Objekte vom 06.10.) | Klausur 1 wie geplant. |  |
 | 22.10.2026 | Do | 8./9. Stunde | Kapselung (`private`, Methoden mit Prüfung, Getter und Setter), Referenzen und Speicherbild, `null` und NullPointerException, `static` (Anschluss an den Einstieg vom 06.10.) | Wie geplant. Kapselung am Konto, Referenzen und Speicherbild, `==` bei Objekten, `null` im Array, `static` am Kontozähler. [Stundendokumentation](material/2026-10-22-stundendokumentation-kapselung-referenzen.md) |  |
-| 03.11.2026 | Di | 1./2. Stunde | Rückgabe K1; Start des Spiels nach „Java will nur spielen“: Klasse `Vertex` |  |  |
-| 04.11.2026 | Mi | 1./2. Stunde | Vertex lernt rechnen und vergleichen: Methoden, `this`, Getter und Setter, `equals`, UML (Buch 3.1.4, 3.1.5) |  |  |
+| 03.11.2026 | Di | 1./2. Stunde | Rückgabe K1; Start des Spiels nach „Java will nur spielen“: Klasse `Vertex` | Wie geplant. Rückgabe der Klausur, Klasse `Vertex` mit Feldern, Konstruktor und `toString`. [Stundendokumentation](material/2026-11-03-stundendokumentation-rueckgabe-k1-vertex.md) |  |
+| 04.11.2026 | Mi | 1./2. Stunde | Vertex lernt rechnen und vergleichen: Methoden, `this`, Getter und Setter, `equals`, UML (Buch 3.1.4, 3.1.5) | Wie geplant. `length`, neue gegen veränderte Punkte, `this`, `equals` mit `instanceof`, UML-Diagramm. [Stundendokumentation](material/2026-11-04-stundendokumentation-vertex-methoden.md) |  |
 | 05.11.2026 | Do | 8./9. Stunde | Geometrische Figuren: Felder, Assoziation, Konstruktoren überladen, Methoden (Buch 3.2.1 bis 3.2.3) |  |  |
 | 10.11.2026 | Di | 1./2. Stunde | Unterklassen: `extends`, `super`, Überschreiben (Buch 3.2.4) |  |  |
 | 12.11.2026 | Do | 8./9. Stunde | entfällt (päd. Nachmittag) |  |  |
